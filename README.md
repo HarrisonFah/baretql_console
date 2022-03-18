@@ -18,7 +18,7 @@ Where *file name* is the location of the database file, if this line is left out
 
 # Query Table Operations + Database File Format
 
-For information about operations on user inputted tables and how database files are formatted refer to [here](https://gitlab.com/HarrisonFah/baretql_dashboard/-/blob/master/queryTableOperations.md).
+For information about operations on user inputted tables and how database files are formatted refer to [here](https://github.com/HarrisonFah/baretql_console/blob/master/queryTableOperations.md).
 
 # Import/Export
 
