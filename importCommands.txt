@@ -1,0 +1,6 @@
+pip3 install fuzzywuzzy
+pip3 install python-Levenshtein
+pip3 install nltk
+python3
+import nltk
+nltk.download('punkt')

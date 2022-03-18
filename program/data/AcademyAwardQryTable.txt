@@ -1,5 +1,0 @@
-"Parasite", "Bong Joon-ho", "2019"
-"Moonlight", "Barry Jenkins", "2016"
-"The Artist", "Michel Hazanavicius", "2011"
-"Titanic", "James Cameron", "1997"
-
