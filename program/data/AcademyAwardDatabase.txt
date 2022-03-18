@@ -1,0 +1,20 @@
+
+
+"Nomadland", "Chloé Zhao", "2020"
+"Parasite", "Bong Joon-ho", "2019"
+"Green Book", "Peter Farrelly", "2018"
+
+"Titanic", "1997", "Kate Winslet"
+"Parasite", "2019", "Choi Woo-shik"
+"Moonlight", "2016", "Mahershala Ali"
+"The Shape of Water", "2017", "Sally Hawkins"
+
+"Joon-Ho, B", "Barunson E&A"
+"Jenkins, B", "A24"
+"Hazanavicius, M", "La Petite Reine"
+"Cameron, J", "Paramount Pictures"
+
+
+
+
+

@@ -1,0 +1,2714 @@
+
+
+Year of Film Release,Film,Film Studio
+1927/28(1st),Wings,Famous Players-Lasky
+1927/28(1st),7th Heaven,Fox
+1927/28(1st),The Racket,The Caddo Company
+1928/29(2nd)[a],The Broadway Melody,Metro-Goldwyn-Mayer
+1928/29(2nd)[a],Alibi,Feature Productions
+1928/29(2nd)[a],Hollywood Revue,Metro-Goldwyn-Mayer
+1928/29(2nd)[a],In Old Arizona,Fox
+1928/29(2nd)[a],The Patriot,Paramount Famous Lasky
+
+Year of Film Release,Film,Film Studio
+1929/30(3rd),All Quiet on the Western Front,Universal
+1929/30(3rd),The Big House,Cosmopolitan
+1929/30(3rd),Disraeli,Warner Bros.
+1929/30(3rd),The Divorcee,Metro-Goldwyn-Mayer
+1929/30(3rd),The Love Parade,Paramount Famous Lasky
+1930/31(4th),Cimarron,RKO Radio
+1930/31(4th),East Lynne,Fox
+1930/31(4th),The Front Page,The Caddo Company
+1930/31(4th),Skippy,Paramount Publix
+1930/31(4th),Trader Horn,Metro-Goldwyn-Mayer
+1931/32(5th),Grand Hotel,Metro-Goldwyn-Mayer
+1931/32(5th),Arrowsmith,Samuel Goldwyn Productions
+1931/32(5th),Bad Girl,Fox
+1931/32(5th),The Champ,Metro-Goldwyn-Mayer
+1931/32(5th),Five Star Final,First National
+1931/32(5th),One Hour with You,Paramount Publix
+1931/32(5th),Shanghai Express,Paramount Publix
+1931/32(5th),The Smiling Lieutenant,Paramount Publix
+1932/33(6th)[b],Cavalcade,Fox
+1932/33(6th)[b],42nd Street,Warner Bros.
+1932/33(6th)[b],A Farewell to Arms,Paramount
+1932/33(6th)[b],I Am a Fugitive from a Chain Gang,Warner Bros.
+1932/33(6th)[b],Lady for a Day,Columbia
+1932/33(6th)[b],Little Women,RKO Radio
+1932/33(6th)[b],The Private Life of Henry VIII,London Films
+1932/33(6th)[b],She Done Him Wrong,Paramount
+1932/33(6th)[b],Smilin' Through,Metro-Goldwyn-Mayer
+1932/33(6th)[b],State Fair,Fox
+1934(7th)[c],It Happened One Night,Columbia
+1934(7th)[c],The Barretts of Wimpole Street,Metro-Goldwyn-Mayer
+1934(7th)[c],Cleopatra,Paramount
+1934(7th)[c],Flirtation Walk,First National
+1934(7th)[c],The Gay Divorcee,RKO Radio
+1934(7th)[c],Here Comes the Navy,Warner Bros.
+1934(7th)[c],The House of Rothschild,20th Century
+1934(7th)[c],Imitation of Life,Universal
+1934(7th)[c],One Night of Love,Columbia
+1934(7th)[c],The Thin Man,Metro-Goldwyn-Mayer
+1934(7th)[c],Viva Villa!,Metro-Goldwyn-Mayer
+1934(7th)[c],The White Parade,Jesse L. Lasky (production company)
+1935(8th)[d],Mutiny on the Bounty,Metro-Goldwyn-Mayer
+1935(8th)[d],Alice Adams,RKO Radio
+1935(8th)[d],Broadway Melody of 1936,Metro-Goldwyn-Mayer
+1935(8th)[d],Captain Blood,Cosmopolitan
+1935(8th)[d],David Copperfield,Metro-Goldwyn-Mayer
+1935(8th)[d],The Informer,RKO Radio
+1935(8th)[d],The Lives of a Bengal Lancer,Paramount
+1935(8th)[d],A Midsummer Night's Dream,Warner Bros.
+1935(8th)[d],Les Misérables,20th Century
+1935(8th)[d],Naughty Marietta,Metro-Goldwyn-Mayer
+1935(8th)[d],Ruggles of Red Gap,Paramount
+1935(8th)[d],Top Hat,RKO Radio
+1936(9th),The Great Ziegfeld,Metro-Goldwyn-Mayer
+1936(9th),Anthony Adverse,Warner Bros.
+1936(9th),Dodsworth,Samuel Goldwyn Productions
+1936(9th),Libeled Lady,Metro-Goldwyn-Mayer
+1936(9th),Mr. Deeds Goes to Town,Columbia
+1936(9th),Romeo and Juliet,Metro-Goldwyn-Mayer
+1936(9th),San Francisco,Metro-Goldwyn-Mayer
+1936(9th),The Story of Louis Pasteur,Cosmopolitan
+1936(9th),A Tale of Two Cities,Metro-Goldwyn-Mayer
+1936(9th),Three Smart Girls,Universal
+1937(10th),The Life of Emile Zola,Warner Bros.
+1937(10th),The Awful Truth,Columbia
+1937(10th),Captains Courageous,Metro-Goldwyn-Mayer
+1937(10th),Dead End,Samuel Goldwyn Productions
+1937(10th),The Good Earth,Metro-Goldwyn-Mayer
+1937(10th),In Old Chicago,20th Century-Fox
+1937(10th),Lost Horizon,Columbia
+1937(10th),One Hundred Men and a Girl,Universal
+1937(10th),Stage Door,RKO Radio
+1937(10th),A Star Is Born,Selznick International Pictures
+1938(11th),You Can't Take It with You,Columbia
+1938(11th),The Adventures of Robin Hood,Warner Bros.-First National
+1938(11th),Alexander's Ragtime Band,20th Century-Fox
+1938(11th),Boys Town,Metro-Goldwyn-Mayer
+1938(11th),The Citadel,Metro-Goldwyn-Mayer
+1938(11th),Four Daughters,Warner Bros.-First National
+1938(11th),Grand Illusion,Realization D'Art Cinematographique
+1938(11th),Jezebel,Warner Bros.
+1938(11th),Pygmalion,Metro-Goldwyn-Mayer
+1938(11th),Test Pilot,Metro-Goldwyn-Mayer
+1939(12th),Gone with the Wind,Selznick International Pictures
+1939(12th),Dark Victory,Warner Bros.-First National
+1939(12th),"Goodbye, Mr. Chips",Metro-Goldwyn-Mayer
+1939(12th),Love Affair,RKO Radio
+1939(12th),Mr. Smith Goes to Washington,Columbia
+1939(12th),Ninotchka,Metro-Goldwyn-Mayer
+1939(12th),Of Mice and Men,Hal Roach (production company)
+1939(12th),Stagecoach,Walter Wanger (production company)
+1939(12th),The Wizard of Oz,Metro-Goldwyn-Mayer
+1939(12th),Wuthering Heights,Samuel Goldwyn Productions
+
+Year of Film Release,Film,Film Studio
+1940(13th),Rebecca,Selznick International Pictures
+1940(13th),"All This, and Heaven Too",Warner Bros.
+1940(13th),Foreign Correspondent,Walter Wanger (production company)
+1940(13th),The Grapes of Wrath,20th Century-Fox
+1940(13th),The Great Dictator,Charles Chaplin Productions
+1940(13th),Kitty Foyle,RKO Radio
+1940(13th),The Letter,Warner Bros.
+1940(13th),The Long Voyage Home,Argosy-Wanger
+1940(13th),Our Town,Sol Lesser (production company)
+1940(13th),The Philadelphia Story,Metro-Goldwyn-Mayer
+1941(14th),How Green Was My Valley,20th Century-Fox
+1941(14th),Blossoms in the Dust,Metro-Goldwyn-Mayer
+1941(14th),Citizen Kane,Mercury
+1941(14th),Here Comes Mr. Jordan,Columbia
+1941(14th),Hold Back the Dawn,Paramount
+1941(14th),The Little Foxes,Samuel Goldwyn Productions
+1941(14th),The Maltese Falcon,Warner Bros.
+1941(14th),One Foot in Heaven,Warner Bros.
+1941(14th),Sergeant York,Warner Bros.
+1941(14th),Suspicion,RKO Radio
+1942(15th),Mrs. Miniver,Metro-Goldwyn-Mayer
+1942(15th),49th Parallel,Ortus
+1942(15th),Kings Row,Warner Bros.
+1942(15th),The Magnificent Ambersons,Mercury
+1942(15th),The Pied Piper,20th Century-Fox
+1942(15th),The Pride of the Yankees,Samuel Goldwyn Productions
+1942(15th),Random Harvest,Metro-Goldwyn-Mayer
+1942(15th),The Talk of the Town,Columbia
+1942(15th),Wake Island,Paramount
+1942(15th),Yankee Doodle Dandy,Warner Bros.
+1943(16th),Casablanca,Warner Bros.
+1943(16th),For Whom the Bell Tolls,Paramount
+1943(16th),Heaven Can Wait,20th Century-Fox
+1943(16th),The Human Comedy,Metro-Goldwyn-Mayer
+1943(16th),In Which We Serve,Two Cities Films
+1943(16th),Madame Curie,Metro-Goldwyn-Mayer
+1943(16th),The More the Merrier,Columbia
+1943(16th),The Ox-Bow Incident,20th Century-Fox
+1943(16th),The Song of Bernadette,20th Century-Fox
+1943(16th),Watch on the Rhine,Warner Bros.
+1944(17th),Going My Way,Paramount
+1944(17th),Double Indemnity,Paramount
+1944(17th),Gaslight,Metro-Goldwyn-Mayer
+1944(17th),Since You Went Away,Selznick International Pictures
+1944(17th),Wilson,20th Century-Fox
+1945(18th),The Lost Weekend,Paramount
+1945(18th),Anchors Aweigh,Metro-Goldwyn-Mayer
+1945(18th),The Bells of St. Mary's,Rainbow Productions
+1945(18th),Mildred Pierce,Warner Bros.
+1945(18th),Spellbound,Selznick International Pictures
+1946(19th),The Best Years of Our Lives,Samuel Goldwyn Productions
+1946(19th),Henry V,Two Cities Films
+1946(19th),It's a Wonderful Life,Liberty Films
+1946(19th),The Razor's Edge,20th Century-Fox
+1946(19th),The Yearling,Metro-Goldwyn-Mayer
+1947(20th),Gentleman's Agreement,20th Century-Fox
+1947(20th),The Bishop's Wife,Samuel Goldwyn Productions
+1947(20th),Crossfire,RKO Radio
+1947(20th),Great Expectations,J. Arthur Rank-Cineguild
+1947(20th),Miracle on 34th Street,20th Century-Fox
+1948(21st),Hamlet,J. Arthur Rank-Two Cities Films
+1948(21st),Johnny Belinda,Warner Bros.
+1948(21st),The Red Shoes,J. Arthur Rank-Archers
+1948(21st),The Snake Pit,20th Century-Fox
+1948(21st),The Treasure of the Sierra Madre,Warner Bros.
+1949(22nd),All the King's Men,Columbia
+1949(22nd),Battleground,Metro-Goldwyn-Mayer
+1949(22nd),The Heiress,Paramount
+1949(22nd),A Letter to Three Wives,20th Century-Fox
+1949(22nd),Twelve O'Clock High,20th Century-Fox
+
+Year of Film Release,Film,Film Studio/Producer(s)
+1950(23rd),All About Eve,20th Century-Fox
+1950(23rd),Born Yesterday,Columbia
+1950(23rd),Father of the Bride,Metro-Goldwyn-Mayer
+1950(23rd),King Solomon's Mines,Metro-Goldwyn-Mayer
+1950(23rd),Sunset Boulevard,Paramount
+1951(24th),An American in Paris,Arthur Freed
+1951(24th),Decision Before Dawn,Anatole Litvak and Frank McCarthy
+1951(24th),A Place in the Sun,George Stevens
+1951(24th),Quo Vadis,Sam Zimbalist
+1951(24th),A Streetcar Named Desire,Charles K. Feldman
+1952(25th),The Greatest Show on Earth,Cecil B. DeMille
+1952(25th),High Noon,Stanley Kramer
+1952(25th),Ivanhoe,Pandro S. Berman
+1952(25th),Moulin Rouge,"John Huston, John Woolf and James Woolf"
+1952(25th),The Quiet Man,John Ford and Merian C. Cooper
+1953(26th),From Here to Eternity,Buddy Adler
+1953(26th),Julius Caesar,John Houseman
+1953(26th),The Robe,Frank Ross
+1953(26th),Roman Holiday,William Wyler
+1953(26th),Shane,George Stevens
+1954(27th),On the Waterfront,Sam Spiegel
+1954(27th),The Caine Mutiny,Stanley Kramer
+1954(27th),The Country Girl,William Perlberg
+1954(27th),Seven Brides for Seven Brothers,Jack Cummings
+1954(27th),Three Coins in the Fountain,Sol C. Siegel
+1955(28th),Marty,Harold Hecht
+1955(28th),Love Is a Many-Splendored Thing,Buddy Adler
+1955(28th),Mister Roberts,Leland Hayward
+1955(28th),Picnic,Fred Kohlmar
+1955(28th),The Rose Tattoo,Hal B. Wallis
+1956(29th),Around the World in 80 Days,Michael Todd
+1956(29th),Friendly Persuasion,William Wyler
+1956(29th),Giant,George Stevens and Henry Ginsberg
+1956(29th),The King and I,Charles Brackett
+1956(29th),The Ten Commandments,Cecil B. DeMille
+1957(30th),The Bridge on the River Kwai,Sam Spiegel
+1957(30th),12 Angry Men,Henry Fonda and Reginald Rose
+1957(30th),Peyton Place,Jerry Wald
+1957(30th),Sayonara,William Goetz
+1957(30th),Witness for the Prosecution,Arthur Hornblow Jr.
+1958(31st),Gigi,Arthur Freed
+1958(31st),Auntie Mame,Jack L. Warner
+1958(31st),Cat on a Hot Tin Roof,Lawrence Weingarten
+1958(31st),The Defiant Ones,Stanley Kramer
+1958(31st),Separate Tables,Harold Hecht
+1959(32nd),Ben-Hur,Sam Zimbalist
+1959(32nd),Anatomy of a Murder,Otto Preminger
+1959(32nd),The Diary of Anne Frank,George Stevens
+1959(32nd),The Nun's Story,Henry Blanke
+1959(32nd),Room at the Top,John Woolf and James Woolf
+
+Year of Film Release,Film,Producer(s)
+1960(33rd),The Apartment,Billy Wilder
+1960(33rd),The Alamo,John Wayne
+1960(33rd),Elmer Gantry,Bernard Smith
+1960(33rd),Sons and Lovers,Jerry Wald
+1960(33rd),The Sundowners,Fred Zinnemann
+1961(34th),West Side Story,Robert Wise
+1961(34th),Fanny,Joshua Logan
+1961(34th),The Guns of Navarone,Carl Foreman
+1961(34th),The Hustler,Robert Rossen
+1961(34th),Judgment at Nuremberg,Stanley Kramer
+1962(35th),Lawrence of Arabia,Sam Spiegel
+1962(35th),The Longest Day,Darryl F. Zanuck
+1962(35th),The Music Man,Morton DaCosta
+1962(35th),Mutiny on the Bounty,Aaron Rosenberg
+1962(35th),To Kill a Mockingbird,Alan J. Pakula
+1963(36th),Tom Jones,Tony Richardson
+1963(36th),America America,Elia Kazan
+1963(36th),Cleopatra,Walter Wanger
+1963(36th),How the West Was Won,Bernard Smith
+1963(36th),Lilies of the Field,Ralph Nelson
+1964(37th),My Fair Lady,Jack L. Warner
+1964(37th),Becket,Hal B. Wallis
+1964(37th),Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick
+1964(37th),Mary Poppins,Walt Disney and Bill Walsh
+1964(37th),Zorba the Greek,Michael Cacoyannis
+1965(38th),The Sound of Music,Robert Wise
+1965(38th),Darling,Joseph Janni
+1965(38th),Doctor Zhivago,Carlo Ponti
+1965(38th),Ship of Fools,Stanley Kramer
+1965(38th),A Thousand Clowns,Fred Coe
+1966(39th),A Man for All Seasons,Fred Zinnemann
+1966(39th),Alfie,Lewis Gilbert
+1966(39th),"The Russians Are Coming, the Russians Are Coming",Norman Jewison
+1966(39th),The Sand Pebbles,Robert Wise
+1966(39th),Who's Afraid of Virginia Woolf?,Ernest Lehman
+1967(40th),In the Heat of the Night,Walter Mirisch
+1967(40th),Bonnie and Clyde,Warren Beatty
+1967(40th),Doctor Dolittle,Arthur P. Jacobs
+1967(40th),The Graduate,Lawrence Turman
+1967(40th),Guess Who's Coming to Dinner,Stanley Kramer
+1968(41st),Oliver!,John Woolf
+1968(41st),Funny Girl,Ray Stark
+1968(41st),The Lion in Winter,Martin Poll
+1968(41st),"Rachel, Rachel",Paul Newman
+1968(41st),Romeo and Juliet,Anthony Havelock-Allan and John Brabourne
+1969(42nd),Midnight Cowboy,Jerome Hellman
+1969(42nd),Anne of the Thousand Days,Hal B. Wallis
+1969(42nd),Butch Cassidy and the Sundance Kid,John Foreman
+1969(42nd),"Hello, Dolly!",Ernest Lehman
+1969(42nd),Z,Jacques Perrin and Ahmed Rachedi
+
+Year of Film Release,Films,Producer(s)
+1970(43rd),Patton,Frank McCarthy
+1970(43rd),Airport,Ross Hunter
+1970(43rd),Five Easy Pieces,Bob Rafelson and Richard Wechsler
+1970(43rd),Love Story,Howard G. Minsky
+1970(43rd),M*A*S*H,Ingo Preminger
+1971(44th),The French Connection,Philip D'Antoni
+1971(44th),A Clockwork Orange,Stanley Kubrick
+1971(44th),Fiddler on the Roof,Norman Jewison
+1971(44th),The Last Picture Show,Stephen J. Friedman
+1971(44th),Nicholas and Alexandra,Sam Spiegel
+1972(45th),The Godfather,Albert S. Ruddy
+1972(45th),Cabaret,Cy Feuer
+1972(45th),Deliverance,John Boorman
+1972(45th),The Emigrants,Bengt Forslund
+1972(45th),Sounder,Robert B. Radnitz
+1973(46th),The Sting,"Tony Bill, Michael Phillips, and Julia Phillips"
+1973(46th),American Graffiti,Francis Ford Coppola and Gary Kurtz
+1973(46th),Cries and Whispers,Ingmar Bergman
+1973(46th),The Exorcist,William Peter Blatty
+1973(46th),A Touch of Class,Melvin Frank
+1974(47th),The Godfather Part II,"Francis Ford Coppola, Gray Frederickson, and Fred Roos"
+1974(47th),Chinatown,Robert Evans
+1974(47th),The Conversation,Francis Ford Coppola
+1974(47th),Lenny,Marvin Worth
+1974(47th),The Towering Inferno,Irwin Allen
+1975(48th),One Flew Over the Cuckoo's Nest,Michael Douglas and Saul Zaentz
+1975(48th),Barry Lyndon,Stanley Kubrick
+1975(48th),Dog Day Afternoon,Martin Bregman and Martin Elfand
+1975(48th),Jaws,Richard D. Zanuck and David Brown
+1975(48th),Nashville,Robert Altman
+1976(49th),Rocky,Irwin Winkler and Robert Chartoff
+1976(49th),All the President's Men,Walter Coblenz
+1976(49th),Bound for Glory,Robert F. Blumofe and Harold Leventhal
+1976(49th),Network,Howard Gottfried
+1976(49th),Taxi Driver,Michael Phillips and Julia Phillips
+1977(50th),Annie Hall,Charles H. Joffe
+1977(50th),The Goodbye Girl,Ray Stark
+1977(50th),Julia,Richard Roth
+1977(50th),Star Wars,Gary Kurtz
+1977(50th),The Turning Point,Herbert Ross and Arthur Laurents
+1978(51st),The Deer Hunter,"Barry Spikings, Michael Deeley, Michael Cimino, and John Peverall"
+1978(51st),Coming Home,Jerome Hellman
+1978(51st),Heaven Can Wait,Warren Beatty
+1978(51st),Midnight Express,Alan Marshall and David Puttnam
+1978(51st),An Unmarried Woman,Paul Mazursky and Anthony Ray
+1979(52nd),Kramer vs. Kramer,Stanley R. Jaffe
+1979(52nd),All That Jazz,Robert Alan Aurthur
+1979(52nd),Apocalypse Now,"Francis Ford Coppola, Fred Roos, Gray Frederickson, and Tom Sternberg"
+1979(52nd),Breaking Away,Peter Yates
+1979(52nd),Norma Rae,Tamara Asseyev and Alex Rose
+
+Year of Film Release,Film,Producer(s)
+1980(53rd),Ordinary People,Ronald L. Schwary
+1980(53rd),Coal Miner's Daughter,Bernard Schwartz
+1980(53rd),The Elephant Man,Jonathan Sanger
+1980(53rd),Raging Bull,Irwin Winkler and Robert Chartoff
+1980(53rd),Tess,Claude Berri and Timothy Burrill
+1981(54th),Chariots of Fire,David Puttnam
+1981(54th),Atlantic City,Denis Héroux
+1981(54th),On Golden Pond,Bruce Gilbert
+1981(54th),Raiders of the Lost Ark,Frank Marshall
+1981(54th),Reds,Warren Beatty
+1982(55th),Gandhi,Richard Attenborough
+1982(55th),E.T. the Extra-Terrestrial,Steven Spielberg and Kathleen Kennedy
+1982(55th),Missing,Edward Lewis and Mildred Lewis
+1982(55th),Tootsie,Sydney Pollack and Dick Richards
+1982(55th),The Verdict,Richard D. Zanuck and David Brown
+1983(56th),Terms of Endearment,James L. Brooks
+1983(56th),The Big Chill,Michael Shamberg
+1983(56th),The Dresser,Peter Yates
+1983(56th),The Right Stuff,Irwin Winkler and Robert Chartoff
+1983(56th),Tender Mercies,Philip S. Hobel
+1984(57th),Amadeus,Saul Zaentz
+1984(57th),The Killing Fields,David Puttnam
+1984(57th),A Passage to India,John Brabourne and Richard B. Goodwin
+1984(57th),Places in the Heart,Arlene Donovan
+1984(57th),A Soldier's Story,"Norman Jewison, Ronald L. Schwary, and Patrick Palmer"
+1985(58th),Out of Africa,Sydney Pollack
+1985(58th),The Color Purple,"Steven Spielberg, Kathleen Kennedy, Frank Marshall, and Quincy Jones"
+1985(58th),Kiss of the Spider Woman,David Weisman
+1985(58th),Prizzi's Honor,John Foreman
+1985(58th),Witness,Edward S. Feldman
+1986(59th),Platoon,Arnold Kopelson
+1986(59th),Children of a Lesser God,Burt Sugarman and Patrick J. Palmer
+1986(59th),Hannah and Her Sisters,Robert Greenhut
+1986(59th),The Mission,Fernando Ghia and David Puttnam
+1986(59th),A Room with a View,Ismail Merchant
+1987(60th),The Last Emperor,Jeremy Thomas
+1987(60th),Broadcast News,James L. Brooks
+1987(60th),Fatal Attraction,Stanley R. Jaffe and Sherry Lansing
+1987(60th),Hope and Glory,John Boorman
+1987(60th),Moonstruck,Patrick J. Palmer and Norman Jewison
+1988(61st),Rain Man,Mark Johnson
+1988(61st),The Accidental Tourist,"Lawrence Kasdan, Charles Okun, and Michael Grillo"
+1988(61st),Dangerous Liaisons,Norma Heyman and Hank Moonjean
+1988(61st),Mississippi Burning,Frederick Zollo and Robert F. Colesberry
+1988(61st),Working Girl,Douglas Wick
+1989(62nd),Driving Miss Daisy,Richard D. Zanuck and Lili Fini Zanuck
+1989(62nd),Born on the Fourth of July,A. Kitman Ho and Oliver Stone
+1989(62nd),Dead Poets Society,"Steven Haft, Paul Junger Witt, and Tony Thomas"
+1989(62nd),Field of Dreams,Lawrence Gordon and Charles Gordon
+1989(62nd),My Left Foot,Noel Pearson
+
+Year of Film Release,Film,Producer(s)
+1990(63rd),Dances with Wolves,Jim Wilson and Kevin Costner
+1990(63rd),Awakenings,Walter Parkes and Lawrence Lasker
+1990(63rd),Ghost,Lisa Weinstein
+1990(63rd),The Godfather Part III,Francis Ford Coppola
+1990(63rd),Goodfellas,Irwin Winkler
+1991(64th),The Silence of the Lambs,"Edward Saxon, Kenneth Utt, and Ron Bozman"
+1991(64th),Beauty and the Beast,Don Hahn
+1991(64th),Bugsy,"Mark Johnson, Barry Levinson and Warren Beatty"
+1991(64th),JFK,A. Kitman Ho and Oliver Stone
+1991(64th),The Prince of Tides,Barbra Streisand and Andrew S. Karsch
+1992(65th),Unforgiven,Clint Eastwood
+1992(65th),The Crying Game,Stephen Woolley
+1992(65th),A Few Good Men,"David Brown, Rob Reiner, and Andrew Scheinman"
+1992(65th),Howards End,Ismail Merchant
+1992(65th),Scent of a Woman,Martin Brest
+1993(66th),Schindler's List,"Steven Spielberg, Gerald R. Molen, and Branko Lustig"
+1993(66th),The Fugitive,Arnold Kopelson
+1993(66th),In the Name of the Father,Jim Sheridan
+1993(66th),The Piano,Jan Chapman
+1993(66th),The Remains of the Day,"Mike Nichols, John Calley, and Ismail Merchant"
+1994(67th),Forrest Gump,"Wendy Finerman, Steve Tisch, and Steve Starkey"
+1994(67th),Four Weddings and a Funeral,Duncan Kenworthy
+1994(67th),Pulp Fiction,Lawrence Bender
+1994(67th),Quiz Show,"Michael Jacobs, Julian Krainin, Michael Nozik, and Robert Redford"
+1994(67th),The Shawshank Redemption,Niki Marvin
+1995(68th),Braveheart,"Mel Gibson, Alan Ladd Jr., and Bruce Davey"
+1995(68th),Apollo 13,Brian Grazer
+1995(68th),Babe,"Bill Miller, George Miller, and Doug Mitchell"
+1995(68th),The Postman (Il Postino),"Mario Cecchi Gori, Vittorio Cecchi Gori, and Gaetano Daniele"
+1995(68th),Sense and Sensibility,Lindsay Doran
+1996(69th),The English Patient,Saul Zaentz
+1996(69th),Fargo,Ethan Coen
+1996(69th),Jerry Maguire,"James L. Brooks, Laurence Mark, Richard Sakai, and Cameron Crowe"
+1996(69th),Secrets & Lies,Simon Channing-Williams
+1996(69th),Shine,Jane Scott
+1997(70th),Titanic,James Cameron and Jon Landau
+1997(70th),As Good as It Gets,"James L. Brooks, Bridget Johnson, and Kristi Zea"
+1997(70th),The Full Monty,Uberto Pasolini
+1997(70th),Good Will Hunting,Lawrence Bender
+1997(70th),L.A. Confidential,"Curtis Hanson, Arnon Milchan, and Michael Nathanson"
+1998(71st),Shakespeare in Love,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick, and Marc Norman"
+1998(71st),Elizabeth,"Alison Owen, Eric Fellner and Tim Bevan"
+1998(71st),Life Is Beautiful,Elda Ferri and Gianluigi Braschi
+1998(71st),Saving Private Ryan,"Steven Spielberg, Ian Bryce, Mark Gordon, and Gary Levinsohn"
+1998(71st),The Thin Red Line,"Robert Michael Geisler, John Roberdeau, and Grant Hill"
+1999(72nd),American Beauty,Bruce Cohen and Dan Jinks
+1999(72nd),The Cider House Rules,Richard N. Gladstein
+1999(72nd),The Green Mile,Frank Darabont and David Valdes
+1999(72nd),The Insider,Pieter Jan Brugge and Michael Mann
+1999(72nd),The Sixth Sense,"Frank Marshall, Kathleen Kennedy, and Barry Mendel"
+
+Year of Film Release,Film,Producer(s)
+2000(73rd),Gladiator,"Douglas Wick, David Franzoni, and Branko Lustig"
+2000(73rd),Chocolat,"David Brown, Kit Golden, and Leslie Holleran"
+2000(73rd),"Crouching Tiger, Hidden Dragon","William Kong, Hsu Li-kong, and Ang Lee"
+2000(73rd),Erin Brockovich,"Danny DeVito, Michael Shamberg, and Stacey Sher"
+2000(73rd),Traffic,"Edward Zwick, Marshall Herskovitz, and Laura Bickford"
+2001(74th),A Beautiful Mind,Brian Grazer and Ron Howard
+2001(74th),Gosford Park,"Robert Altman, Bob Balaban, and David Levy"
+2001(74th),In the Bedroom,"Graham Leader, Ross Katz, and Todd Field"
+2001(74th),The Lord of the Rings: The Fellowship of the Ring,"Peter Jackson, Fran Walsh, and Barrie M. Osborne"
+2001(74th),Moulin Rouge!,"Martin Brown, Baz Luhrmann, and Fred Baron"
+2002(75th),Chicago,Martin Richards
+2002(75th),Gangs of New York,Alberto Grimaldi and Harvey Weinstein
+2002(75th),The Hours,Scott Rudin and Robert Fox
+2002(75th),The Lord of the Rings: The Two Towers,"Barrie M. Osborne, Fran Walsh, and Peter Jackson"
+2002(75th),The Pianist,"Roman Polanski, Robert Benmussa, and Alain Sarde"
+2003(76th),The Lord of the Rings: The Return of the King,"Barrie M. Osborne, Peter Jackson, and Fran Walsh"
+2003(76th),Lost in Translation,Ross Katz and Sofia Coppola
+2003(76th),Master and Commander: The Far Side of the World,"Samuel Goldwyn Jr., Peter Weir, and Duncan Henderson"
+2003(76th),Mystic River,"Robert Lorenz, Judie G. Hoyt, and Clint Eastwood"
+2003(76th),Seabiscuit,"Kathleen Kennedy, Frank Marshall, and Gary Ross"
+2004(77th),Million Dollar Baby,"Clint Eastwood, Albert S. Ruddy, and Tom Rosenberg"
+2004(77th),The Aviator,Michael Mann and Graham King
+2004(77th),Finding Neverland,Richard N. Gladstein and Nellie Bellflower
+2004(77th),Ray,"Taylor Hackford, Stuart Benjamin, and Howard Baldwin"
+2004(77th),Sideways,Michael London
+2005(78th),Crash,Paul Haggis and Cathy Schulman
+2005(78th),Brokeback Mountain,Diana Ossana and James Schamus
+2005(78th),Capote,"Caroline Baron, William Vince, and Michael Ohoven"
+2005(78th),"Good Night, and Good Luck",Grant Heslov
+2005(78th),Munich,"Steven Spielberg, Kathleen Kennedy, and Barry Mendel"
+2006(79th),The Departed,Graham King
+2006(79th),Babel,"Alejandro González Iñárritu, Steve Golin, and Jon Kilik"
+2006(79th),Letters from Iwo Jima,"Clint Eastwood, Steven Spielberg, and Robert Lorenz"
+2006(79th),Little Miss Sunshine,"David T. Friendly, Peter Saraf, and Marc Turtletaub"
+2006(79th),The Queen,"Andy Harries, Christine Langan, and Tracey Seaward"
+2007(80th),No Country for Old Men,"Scott Rudin, Joel Coen, and Ethan Coen"
+2007(80th),Atonement,"Tim Bevan, Eric Fellner, and Paul Webster"
+2007(80th),Juno,"Lianne Halfon, Mason Novick, and Russell Smith"
+2007(80th),Michael Clayton,"Jennifer Fox, Kerry Orent, and Sydney Pollack"
+2007(80th),There Will Be Blood,"Paul Thomas Anderson, Daniel Lupi, and JoAnne Sellar"
+2008(81st),Slumdog Millionaire,Christian Colson
+2008(81st),The Curious Case of Benjamin Button,"Kathleen Kennedy, Frank Marshall, and Ceán Chaffin"
+2008(81st),Frost/Nixon,"Ron Howard, Brian Grazer, and Eric Fellner"
+2008(81st),Milk,Bruce Cohen and Dan Jinks
+2008(81st),The Reader,"Anthony Minghella, Sydney Pollack, Donna Gigliotti, and Redmond Morris"
+2009(82nd),The Hurt Locker,"Kathryn Bigelow, Mark Boal, Nicolas Chartier, and Greg Shapiro"
+2009(82nd),Avatar,James Cameron and Jon Landau
+2009(82nd),The Blind Side,"Gil Netter, Andrew A. Kosove, and Broderick Johnson"
+2009(82nd),District 9,Peter Jackson and Carolynne Cunningham
+2009(82nd),An Education,Finola Dwyer and Amanda Posey
+2009(82nd),Inglourious Basterds,Lawrence Bender
+2009(82nd),Precious: Based on the Novel 'Push' by Sapphire,"Lee Daniels, Sarah Siegel-Magness, and Gary Magness"
+2009(82nd),A Serious Man,Joel Coen and Ethan Coen
+2009(82nd),Up,Jonas Rivera
+2009(82nd),Up in the Air,"Daniel Dubiecki, Ivan Reitman, and Jason Reitman"
+
+Year of Film Release,Film,Producer(s)
+2010(83rd),The King's Speech,"Iain Canning, Emile Sherman, and Gareth Unwin"
+2010(83rd),127 Hours,"Danny Boyle, John Smithson, and Christian Colson"
+2010(83rd),Black Swan,"Scott Franklin, Mike Medavoy, and Brian Oliver"
+2010(83rd),The Fighter,"David Hoberman, Todd Lieberman, and Mark Wahlberg"
+2010(83rd),Inception,Christopher Nolan and Emma Thomas
+2010(83rd),The Kids Are All Right,"Gary Gilbert, Jeffrey Levy-Hinte, and Celine Rattray"
+2010(83rd),The Social Network,"Dana Brunetti, Ceán Chaffin, Michael De Luca, and Scott Rudin"
+2010(83rd),Toy Story 3,Darla K. Anderson
+2010(83rd),True Grit,"Joel Coen, Ethan Coen, and Scott Rudin"
+2010(83rd),Winter's Bone,Alix Madigan and Anne Rosellini
+2011(84th),The Artist,Thomas Langmann
+2011(84th),The Descendants,"Jim Burke, Alexander Payne, and Jim Taylor"
+2011(84th),Extremely Loud & Incredibly Close,Scott Rudin
+2011(84th),The Help,"Brunson Green, Chris Columbus, and Michael Barnathan"
+2011(84th),Hugo,Graham King and Martin Scorsese
+2011(84th),Midnight in Paris,Letty Aronson and Stephen Tenenbaum
+2011(84th),Moneyball,"Michael De Luca, Rachael Horovitz, and Brad Pitt"
+2011(84th),The Tree of Life,"Sarah Green, Bill Pohlad, Dede Gardner, and Grant Hill"
+2011(84th),War Horse,Steven Spielberg and Kathleen Kennedy
+2012(85th),Argo,"Grant Heslov, Ben Affleck, and George Clooney"
+2012(85th),Amour,"Margaret Menegoz, Stefan Arndt, Veit Heiduschka, and Michael Katz"
+2012(85th),Beasts of the Southern Wild,"Dan Janvey, Josh Penn, and Michael Gottwald"
+2012(85th),Django Unchained,"Stacey Sher, Reginald Hudlin, and Pilar Savone"
+2012(85th),Life of Pi,"Gil Netter, Ang Lee, and David Womark"
+2012(85th),Lincoln,Steven Spielberg and Kathleen Kennedy
+2012(85th),Les Misérables,"Tim Bevan, Eric Fellner, Debra Hayward, and Cameron Mackintosh"
+2012(85th),Silver Linings Playbook,"Donna Gigliotti, Bruce Cohen, and Jonathan Gordon"
+2012(85th),Zero Dark Thirty,"Mark Boal, Kathryn Bigelow, and Megan Ellison"
+2013(86th),12 Years a Slave,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen, and Anthony Katagas"
+2013(86th),American Hustle,"Charles Roven, Richard Suckle, Megan Ellison, and Jonathan Gordon"
+2013(86th),Captain Phillips,"Scott Rudin, Dana Brunetti, and Michael De Luca"
+2013(86th),Dallas Buyers Club,Robbie Brenner and Rachel Winter
+2013(86th),Gravity,Alfonso Cuarón and David Heyman
+2013(86th),Her,"Megan Ellison, Spike Jonze, and Vincent Landay"
+2013(86th),Nebraska,Albert Berger and Ron Yerxa
+2013(86th),Philomena,"Gabrielle Tana, Steve Coogan, and Tracey Seaward"
+2013(86th),The Wolf of Wall Street,"Martin Scorsese, Leonardo DiCaprio, Joey McFarland, and Emma Tillinger Koskoff"
+2014(87th),Birdman or (The Unexpected Virtue of Ignorance),"Alejandro G. Iñárritu, John Lesher, and James W. Skotchdopole"
+2014(87th),American Sniper,"Clint Eastwood, Andrew Lazar, Robert Lorenz, Bradley Cooper, and Peter Morgan"
+2014(87th),Boyhood,Richard Linklater and Cathleen Sutherland
+2014(87th),The Grand Budapest Hotel,"Wes Anderson, Scott Rudin, Steven M. Rales, and Jeremy Dawson"
+2014(87th),The Imitation Game,"Nora Grossman, Ido Ostrowsky, and Teddy Schwarzman"
+2014(87th),Selma,"Christian Colson, Oprah Winfrey, Dede Gardner, and Jeremy Kleiner"
+2014(87th),The Theory of Everything,"Tim Bevan, Eric Fellner, Lisa Bruce, and Anthony McCarten"
+2014(87th),Whiplash,"Jason Blum, Helen Estabrook, and David Lancaster"
+2015(88th),Spotlight,"Blye Pagon Faust, Steve Golin, Nicole Rocklin, and Michael Sugar"
+2015(88th),The Big Short,"Dede Gardner, Jeremy Kleiner, and Brad Pitt"
+2015(88th),Bridge of Spies,"Steven Spielberg, Marc Platt, and Kristie Macosko Krieger"
+2015(88th),Brooklyn,Finola Dwyer and Amanda Posey
+2015(88th),Mad Max: Fury Road,Doug Mitchell and George Miller
+2015(88th),The Martian,"Simon Kinberg, Ridley Scott, Michael Schaefer, and Mark Huffam"
+2015(88th),The Revenant,"Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent, and Keith Redmon"
+2015(88th),Room,Ed Guiney
+2016(89th),Moonlight,"Adele Romanski, Dede Gardner, and Jeremy Kleiner"
+2016(89th),Arrival,"Shawn Levy, Dan Levine, Aaron Ryder, and David Linde"
+2016(89th),Fences,"Scott Rudin, Denzel Washington, and Todd Black"
+2016(89th),Hacksaw Ridge,Bill Mechanic and David Permut
+2016(89th),Hell or High Water,Carla Hacken and Julie Yorn
+2016(89th),Hidden Figures,"Donna Gigliotti, Peter Chernin, Jenno Topping, Pharrell Williams, and Theodore Melfi"
+2016(89th),La La Land,"Fred Berger, Jordan Horowitz, and Marc Platt"
+2016(89th),Lion,"Emile Sherman, Iain Canning, and Angie Fielder"
+2016(89th),Manchester by the Sea,"Matt Damon, Kimberly Steward, Chris Moore, Lauren Beck, and Kevin J. Walsh"
+2017(90th),The Shape of Water,Guillermo del Toro and J. Miles Dale
+2017(90th),Call Me by Your Name,"Peter Spears, Luca Guadagnino, Emilie Georges, and Marco Morabito"
+2017(90th),Darkest Hour,"Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten, and Douglas Urbanski"
+2017(90th),Dunkirk,Emma Thomas and Christopher Nolan
+2017(90th),Get Out,"Sean McKittrick, Jason Blum, Edward H. Hamm Jr., and Jordan Peele"
+2017(90th),Lady Bird,"Scott Rudin, Eli Bush, and Evelyn O'Neill"
+2017(90th),Phantom Thread,"JoAnne Sellar, Paul Thomas Anderson, Megan Ellison, and Daniel Lupi"
+2017(90th),The Post,"Amy Pascal, Steven Spielberg, and Kristie Macosko Krieger"
+2017(90th),"Three Billboards Outside Ebbing, Missouri","Graham Broadbent, Pete Czernin, and Martin McDonagh"
+2018(91st),Green Book,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly, and Nick Vallelonga"
+2018(91st),Black Panther,Kevin Feige
+2018(91st),BlacKkKlansman,"Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele, and Spike Lee"
+2018(91st),Bohemian Rhapsody,Graham King
+2018(91st),The Favourite,"Ceci Dempsey, Ed Guiney, Lee Magiday, and Yorgos Lanthimos"
+2018(91st),Roma,Gabriela Rodríguez and Alfonso Cuarón
+2018(91st),A Star Is Born,"Bill Gerber, Bradley Cooper, and Lynette Howell Taylor"
+2018(91st),Vice,"Dede Gardner, Jeremy Kleiner, Adam McKay, and Kevin Messick"
+2019(92nd),Parasite,Kwak Sin-ae and Bong Joon-ho
+2019(92nd),Ford v Ferrari,"Peter Chernin, Jenno Topping, and James Mangold"
+2019(92nd),The Irishman,"Martin Scorsese, Robert De Niro, Jane Rosenthal, and Emma Tillinger Koskoff"
+2019(92nd),Jojo Rabbit,"Carthew Neal, Taika Waititi, and Chelsea Winstanley"
+2019(92nd),Joker,"Todd Phillips, Bradley Cooper, and Emma Tillinger Koskoff"
+2019(92nd),Little Women,Amy Pascal
+2019(92nd),Marriage Story,Noah Baumbach and David Heyman
+2019(92nd),1917,"Sam Mendes, Pippa Harris, Jayne-Ann Tenggren, and Callum McDougall"
+2019(92nd),Once Upon a Time in Hollywood,"David Heyman, Shannon McIntosh, and Quentin Tarantino"
+
+Year of Film Release,Film,Producer(s)
+2020(93rd),Nomadland,"Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey, and Chloé Zhao"
+2020(93rd),The Father,"David Parfitt, Jean-Louis Livi, and Philippe Carcassonne"
+2020(93rd),Judas and the Black Messiah,"Shaka King, Charles D. King, and Ryan Coogler"
+2020(93rd),Mank,"Ceán Chaffin, Eric Roth, and Douglas Urbanski"
+2020(93rd),Minari,Christina Oh
+2020(93rd),Promising Young Woman,"Ben Browning, Ashley Fox, Emerald Fennell, and Josey McNamara"
+2020(93rd),Sound of Metal,Bert Hamelinck and Sacha Ben Harroche
+2020(93rd),The Trial of the Chicago 7,Marc Platt and Stuart M. Besser
+
+Production Company,Nominations,Wins
+20th Century Studios,62,9
+Columbia Pictures,56,12
+Metro-Goldwyn-Mayer,40,9
+Universal Pictures,34,9
+Warner Bros. Pictures,25,9
+Paramount Pictures,20,11
+Searchlight Pictures,19,5
+Miramax Films,15,4
+DreamWorks,13,4
+RKO Pictures,11,1
+Focus Features,10,0
+Plan B Entertainment,8,3
+Samuel Goldwyn Productions,8,1
+Orion Pictures,6,4
+Touchstone Pictures,6,0
+The Weinstein Company,6,2
+Selznick International Pictures,5,2
+Annapurna Pictures,5,0
+Netflix,5,0
+A24,4,1
+Walt Disney Pictures,4,0
+J. Arthur Rank-Two Cities Films,3,1
+New Line Cinema,3,1
+Cosmopolitan,3,0
+Amazon Studios,2,0
+Pixar Animation Studios,2,0
+Hollywood Pictures,2,0
+The Caddo Company,2,0
+Walter Wanger (production company),2,0
+Mercury,2,0
+
+Film,Year,Awards,Nominations
+Nomadland,2020/21,3,6
+The Father,2020/21,2,6
+Judas and the Black Messiah,2020/21,2,6
+Minari,2020/21,1,6
+Mank,2020/21,2,10
+Sound of Metal,2020/21,2,6
+Ma Rainey's Black Bottom,2020/21,2,5
+Promising Young Woman,2020/21,1,5
+Tenet,2020/21,1,2
+Soul,2020/21,2,3
+Another Round,2020/21,1,2
+My Octopus Teacher,2020/21,1,1
+Colette,2020/21,1,1
+If Anything Happens I Love You,2020/21,1,1
+Two Distant Strangers,2020/21,1,1
+Parasite,2019,4,6
+Ford v Ferrari,2019,2,4
+Learning to Skateboard in a Warzone (If You're a Girl),2019,1,1
+The Neighbors' Window,2019,1,1
+Little Women,2019,1,6
+Marriage Story,2019,1,6
+Jojo Rabbit,2019,1,6
+Toy Story 4,2019,1,2
+Joker,2019,2,11
+Once Upon a Time in Hollywood,2019,2,10
+1917,2019,3,10
+Judy,2019,1,2
+Bombshell,2019,1,3
+Rocketman,2019,1,1
+American Factory,2019,1,1
+Hair Love,2019,1,1
+Green Book,2018,3,5
+Bohemian Rhapsody,2018,4,5
+Roma,2018,3,10
+Black Panther,2018,3,7
+The Favourite,2018,1,10
+A Star Is Born,2018,1,8
+Vice,2018,1,8
+BlacKkKlansman,2018,1,6
+First Man,2018,1,4
+If Beale Street Could Talk,2018,1,3
+Bao,2018,1,1
+Free Solo,2018,1,1
+Period. End of Sentence.,2018,1,1
+Skin,2018,1,1
+Spider-Man: Into the Spider-Verse,2018,1,1
+The Shape of Water,2017,4,13
+Dunkirk,2017,3,8
+"Three Billboards Outside Ebbing, Missouri",2017,2,7
+Darkest Hour,2017,2,6
+Blade Runner 2049,2017,2,5
+Coco,2017,2,2
+Phantom Thread,2017,1,6
+Call Me by Your Name,2017,1,4
+Get Out,2017,1,4
+"I, Tonya",2017,1,3
+Dear Basketball,2017,1,1
+A Fantastic Woman,2017,1,1
+Heaven Is a Traffic Jam on the 405,2017,1,1
+Icarus,2017,1,1
+The Silent Child,2017,1,1
+Flesh and Sand (Carne y arena),2017,0 (1)[1],0
+Moonlight,2016,3,8
+La La Land,2016,6,14
+Hacksaw Ridge,2016,2,6
+Manchester by the Sea,2016,2,6
+Arrival,2016,1,8
+Fences,2016,1,4
+Fantastic Beasts and Where to Find Them,2016,1,2
+The Jungle Book,2016,1,1
+O.J.: Made in America,2016,1,1
+Piper,2016,1,1
+The Salesman,2016,1,1
+Sing,2016,1,1
+Suicide Squad,2016,1,1
+The White Helmets,2016,1,1
+Zootopia,2016,1,1
+Spotlight,2015,2,6
+Mad Max: Fury Road,2015,6,10
+The Revenant,2015,3,12
+Bridge of Spies,2015,1,6
+The Big Short,2015,1,5
+The Danish Girl,2015,1,4
+Room,2015,1,4
+The Hateful Eight,2015,1,3
+Ex Machina,2015,1,2
+Inside Out,2015,1,2
+Amy,2015,1,1
+Bear Story,2015,1,1
+A Girl in the River: The Price of Forgiveness,2015,1,1
+Son of Saul,2015,1,1
+Spectre,2015,1,1
+Stutterer,2015,1,1
+Birdman,2014,4,9
+The Grand Budapest Hotel,2014,4,9
+Whiplash,2014,3,5
+The Imitation Game,2014,1,8
+American Sniper,2014,1,6
+Boyhood,2014,1,6
+Interstellar,2014,1,5
+The Theory of Everything,2014,1,5
+Ida,2014,1,2
+Selma,2014,1,2
+Citizenfour,2014,1,1
+Big Hero 6,2014,1,1
+Crisis Hotline: Veterans Press 1,2014,1,1
+The Phone Call,2014,1,1
+Still Alice,2014,1,1
+Feast,2014,1,1
+12 Years a Slave,2013,3,9
+Gravity,2013,7,10
+Dallas Buyers Club,2013,3,6
+Frozen,2013,2,2
+The Great Gatsby,2013,2,2
+Her,2013,1,5
+Blue Jasmine,2013,1,3
+Mr Hublot,2013,1,1
+The Lady in Number 6,2013,1,1
+Helium,2013,1,1
+The Great Beauty,2013,1,1
+20 Feet from Stardom,2013,1,1
+Argo,2012,3,7
+Life of Pi,2012,4,11
+Les Misérables,2012,3,8
+Lincoln,2012,2,12
+Django Unchained,2012,2,5
+Skyfall,2012,2,5
+Silver Linings Playbook,2012,1,8
+Zero Dark Thirty,2012,1,5
+Amour,2012,1,5
+Anna Karenina,2012,1,4
+Paperman,2012,1,1
+Brave,2012,1,1
+Searching for Sugar Man,2012,1,1
+Inocente,2012,1,1
+Curfew,2012,1,1
+The Artist,2011,5,10
+Hugo,2011,5,11
+The Iron Lady,2011,2,2
+The Descendants,2011,1,5
+The Girl with the Dragon Tattoo,2011,1,5
+Midnight in Paris,2011,1,4
+The Help,2011,1,4
+A Separation,2011,1,2
+The Fantastic Flying Books of Mr. Morris Lessmore,2011,1,1
+The Shore,2011,1,1
+Undefeated,2011,1,1
+The Muppets,2011,1,1
+Saving Face,2011,1,1
+Beginners,2011,1,1
+Rango,2011,1,1
+The King's Speech,2010,4,12
+Inception,2010,4,8
+The Social Network,2010,3,8
+The Fighter,2010,2,7
+Toy Story 3,2010,2,5
+Alice in Wonderland,2010,2,3
+Black Swan,2010,1,5
+In a Better World,2010,1,1
+The Lost Thing,2010,1,1
+God of Love,2010,1,1
+The Wolfman,2010,1,1
+Strangers No More,2010,1,1
+Inside Job,2010,1,1
+The Hurt Locker,2009,6,9
+Avatar,2009,3,9
+Precious,2009,2,6
+Up,2009,2,5
+Crazy Heart,2009,2,3
+Inglourious Basterds,2009,1,8
+Star Trek,2009,1,4
+The Young Victoria,2009,1,3
+The Blind Side,2009,1,2
+Music by Prudence,2009,1,1
+The Secret in Their Eyes,2009,1,1
+The Cove,2009,1,1
+The New Tenants,2009,1,1
+Logorama,2009,1,1
+Slumdog Millionaire,2008,8,10
+The Curious Case of Benjamin Button,2008,3,13
+Milk,2008,2,8
+The Dark Knight,2008,2,8
+WALL-E,2008,1,6
+The Reader,2008,1,5
+The Duchess,2008,1,2
+Departures,2008,1,1
+Vicky Cristina Barcelona,2008,1,1
+Smile Pinki,2008,1,1
+Man on Wire,2008,1,1
+Toyland,2008,1,1
+La Maison en Petits Cubes,2008,1,1
+No Country for Old Men,2007,4,8
+The Bourne Ultimatum,2007,3,3
+There Will Be Blood,2007,2,8
+La Vie en rose,2007,2,3
+Atonement,2007,1,7
+Michael Clayton,2007,1,7
+Ratatouille,2007,1,5
+Juno,2007,1,4
+Sweeney Todd: The Demon Barber of Fleet Street,2007,1,3
+The Golden Compass,2007,1,2
+Elizabeth: The Golden Age,2007,1,2
+Taxi to the Dark Side,2007,1,1
+Peter & the Wolf,2007,1,1
+Once,2007,1,1
+Le Mozart des pickpockets,2007,1,1
+The Counterfeiters (Die Fälscher),2007,1,1
+Freeheld,2007,1,1
+The Departed,2006,4,5
+Pan's Labyrinth (El laberinto del fauno),2006,3,6
+Dreamgirls,2006,2,8
+Little Miss Sunshine,2006,2,4
+An Inconvenient Truth,2006,2,2
+Babel,2006,1,7
+The Queen,2006,1,6
+Letters from Iwo Jima,2006,1,4
+Pirates of the Caribbean: Dead Man's Chest,2006,1,4
+The Danish Poet,2006,1,1
+Happy Feet,2006,1,1
+The Last King of Scotland,2006,1,1
+The Lives of Others (Das Leben der Anderen),2006,1,1
+Marie Antoinette,2006,1,1
+West Bank Story,2006,1,1
+The Blood of Yingzhou District,2006,1,1
+Crash,2005,3,6
+Brokeback Mountain,2005,3,8
+Memoirs of a Geisha,2005,3,6
+King Kong,2005,3,4
+Capote,2005,1,5
+Walk the Line,2005,1,5
+The Constant Gardener,2005,1,4
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,1,3
+Hustle & Flow,2005,1,2
+Syriana,2005,1,2
+March of the Penguins (La Marche de l'empereur),2005,1,1
+Six Shooter,2005,1,1
+The Moon and the Son: An Imagined Conversation,2005,1,1
+A Note of Triumph: The Golden Age of Norman Corwin,2005,1,1
+Tsotsi,2005,1,1
+Wallace & Gromit: The Curse of the Were-Rabbit,2005,1,1
+Million Dollar Baby,2004,4,7
+The Aviator,2004,5,11
+Ray,2004,2,6
+The Incredibles,2004,2,4
+Finding Neverland,2004,1,7
+Sideways,2004,1,5
+Lemony Snicket's A Series of Unfortunate Events,2004,1,4
+Spider-Man 2,2004,1,3
+Eternal Sunshine of the Spotless Mind,2004,1,2
+The Motorcycle Diaries,2004,1,2
+The Sea Inside,2004,1,2
+Born into Brothels,2004,1,1
+Mighty Times: The Children's March,2004,1,1
+Wasp,2004,1,1
+Ryan,2004,1,1
+The Lord of the Rings: The Return of the King,2003,11,11
+Master and Commander: The Far Side of the World,2003,2,10
+Mystic River,2003,2,6
+Cold Mountain,2003,1,7
+Lost in Translation,2003,1,4
+Finding Nemo,2003,1,4
+The Barbarian Invasions,2003,1,2
+Two Soldiers,2003,1,1
+Monster,2003,1,1
+Harvie Krumpet,2003,1,1
+Chernobyl Heart,2003,1,1
+The Fog of War,2003,1,1
+Chicago,2002,6,13
+The Pianist,2002,3,7
+The Lord of the Rings: The Two Towers,2002,2,6
+Frida,2002,2,6
+The Hours,2002,1,9
+Road to Perdition,2002,1,6
+Adaptation,2002,1,4
+Talk to Her (Hable con ella),2002,1,2
+This Charming Man (Der Er En Yndig Mand),2002,1,1
+Spirited Away,2002,1,1
+Nowhere in Africa (Nirgendwo in Afrika),2002,1,1
+The ChubbChubbs!,2002,1,1
+Twin Towers,2002,1,1
+Bowling for Columbine,2002,1,1
+8 Mile,2002,1,1
+A Beautiful Mind,2001,4,8
+The Lord of the Rings: The Fellowship of the Ring,2001,4,13
+Moulin Rouge!,2001,2,8
+Black Hawk Down,2001,2,4
+Gosford Park,2001,1,7
+"Monsters, Inc.",2001,1,4
+Pearl Harbor,2001,1,4
+Iris,2001,1,3
+Shrek,2001,1,2
+Training Day,2001,1,2
+Monster's Ball,2001,1,2
+Thoth,2001,1,1
+For the Birds,2001,1,1
+No Man's Land,2001,1,1
+Murder on a Sunday Morning (Un coupable idéal),2001,1,1
+The Accountant,2001,1,1
+Gladiator,2000,5,12
+"Crouching Tiger, Hidden Dragon",2000,4,10
+Traffic,2000,4,5
+Erin Brockovich,2000,1,5
+Almost Famous,2000,1,4
+Wonder Boys,2000,1,3
+How the Grinch Stole Christmas,2000,1,3
+U-571,2000,1,2
+Pollock,2000,1,2
+Father and Daughter,2000,1,1
+Into the Arms of Strangers: Stories of the Kindertransport,2000,1,1
+Quiero ser (I want to be...),2000,1,1
+Big Mama,2000,1,1
+American Beauty,1999,5,8
+The Matrix,1999,4,4
+The Cider House Rules,1999,2,7
+Topsy-Turvy,1999,2,4
+Sleepy Hollow,1999,1,3
+Boys Don't Cry,1999,1,2
+Tarzan,1999,1,1
+One Day in September,1999,1,1
+The Red Violin (Le violon rouge),1999,1,1
+The Old Man and the Sea,1999,1,1
+My Mother Dreams the Satan's Disciples in New York,1999,1,1
+King Gimp,1999,1,1
+"Girl, Interrupted",1999,1,1
+All About My Mother (Todo sobre mi madre),1999,1,1
+Shakespeare in Love,1998,7,13
+Saving Private Ryan,1998,5,11
+Life Is Beautiful (La vita è bella),1998,3,7
+Elizabeth,1998,1,7
+Gods and Monsters,1998,1,3
+The Prince of Egypt,1998,1,2
+Affliction,1998,1,2
+What Dreams May Come,1998,1,2
+The Personals,1998,1,1
+The Last Days,1998,1,1
+Election Night (Valgaften),1998,1,1
+Bunny,1998,1,1
+Titanic,1997,11,14
+Good Will Hunting,1997,2,9
+L.A. Confidential,1997,2,9
+As Good as It Gets,1997,2,7
+The Full Monty,1997,1,4
+Men in Black,1997,1,3
+Visas and Virtue,1997,1,1
+Character (Karakter),1997,1,1
+Geri's Game,1997,1,1
+A Story of Healing,1997,1,1
+The Long Way Home,1997,1,1
+The English Patient,1996,9,12
+Fargo,1996,2,7
+Shine,1996,1,7
+Evita,1996,1,5
+Jerry Maguire,1996,1,5
+Independence Day,1996,1,2
+Emma,1996,1,2
+Sling Blade,1996,1,2
+The Ghost and the Darkness,1996,1,1
+Kolya,1996,1,1
+The Nutty Professor,1996,1,1
+Quest,1996,1,1
+When We Were Kings,1996,1,1
+Breathing Lessons: The Life and Work of Mark O'Brien,1996,1,1
+Dear Diary,1996,1,1
+Braveheart,1995,5,10
+Apollo 13,1995,2,9
+Pocahontas,1995,2,2
+The Usual Suspects,1995,2,2
+Restoration,1995,2,2
+Babe,1995,1,7
+Sense and Sensibility,1995,1,7
+Il Postino: The Postman,1995,1,5
+Dead Man Walking,1995,1,4
+Leaving Las Vegas,1995,1,4
+Mighty Aphrodite,1995,1,2
+Anne Frank Remembered,1995,1,1
+A Close Shave,1995,1,1
+Lieberman in Love,1995,1,1
+One Survivor Remembers,1995,1,1
+Antonia's Line (Antonia),1995,1,1
+Toy Story,1995,0 (1),3
+Forrest Gump,1994,6,13
+The Lion King,1994,2,4
+Speed,1994,2,3
+Ed Wood,1994,2,2
+Pulp Fiction,1994,1,7
+Bullets Over Broadway,1994,1,7
+The Madness of King George,1994,1,4
+Legends of the Fall,1994,1,3
+A Time for Justice,1994,1,1
+Franz Kafka's It's a Wonderful Life,1994,1,1
+Maya Lin: A Strong Clear Vision,1994,1,1
+Burnt by the Sun (Utomlyonnye solntsem),1994,1,1
+Trevor,1994,1,1
+"The Adventures of Priscilla, Queen of the Desert",1994,1,1
+Bob's Birthday,1994,1,1
+Blue Sky,1994,1,1
+Schindler's List,1993,7,12
+The Piano,1993,3,8
+Jurassic Park,1993,3,3
+Philadelphia,1993,2,5
+The Fugitive,1993,1,7
+The Age of Innocence,1993,1,5
+The Wrong Trousers,1993,1,1
+Belle Epoque (The Beautiful Era),1993,1,1
+I Am a Promise: The Children of Stanton Elementary School,1993,1,1
+Mrs. Doubtfire,1993,1,1
+Black Rider (Schwarzfahrer),1993,1,1
+Defending Our Lives,1993,1,1
+Unforgiven,1992,4,9
+Howards End,1992,3,9
+Bram Stoker's Dracula,1992,3,4
+Aladdin,1992,2,5
+The Crying Game,1992,1,6
+Scent of a Woman,1992,1,4
+A River Runs Through It,1992,1,3
+Indochine,1992,1,2
+My Cousin Vinny,1992,1,1
+The Panama Deception,1992,1,1
+Educating Peter,1992,1,1
+The Last of the Mohicans,1992,1,1
+Death Becomes Her,1992,1,1
+Omnibus,1992,1,1
+Mona Lisa Descending a Staircase,1992,1,1
+The Silence of the Lambs,1991,5,7
+Terminator 2: Judgment Day,1991,4,6
+Bugsy,1991,2,10
+JFK,1991,2,8
+Beauty and the Beast,1991,2,6
+Thelma & Louise,1991,1,6
+The Fisher King,1991,1,5
+In the Shadow of the Stars,1991,1,1
+Manipulation,1991,1,1
+Mediterraneo,1991,1,1
+Session Man,1991,1,1
+City Slickers,1991,1,1
+"Deadly Deception: General Electric, Nuclear Weapons and Our Environment",1991,1,1
+Dances with Wolves,1990,7,12
+Dick Tracy,1990,3,7
+Ghost,1990,2,5
+Goodfellas,1990,1,6
+The Hunt for Red October,1990,1,3
+Reversal of Fortune,1990,1,3
+Cyrano de Bergerac,1990,1,5
+American Dream,1990,1,1
+Journey of Hope (Reise der Hoffnung),1990,1,1
+Days of Waiting,1990,1,1
+Creature Comforts,1990,1,1
+The Lunch Date,1990,1,1
+Misery,1990,1,1
+Total Recall,1990,0 (1),2
+Driving Miss Daisy,1989,4,9
+Glory,1989,3,5
+Born on the Fourth of July,1989,2,8
+My Left Foot,1989,2,5
+The Little Mermaid,1989,2,3
+Dead Poets Society,1989,1,4
+The Abyss,1989,1,4
+Indiana Jones and the Last Crusade,1989,1,3
+Henry V,1989,1,3
+The Johnstown Flood,1989,1,1
+Common Threads: Stories from the Quilt,1989,1,1
+Cinema Paradiso,1989,1,1
+Work Experience,1989,1,1
+Batman,1989,1,1
+Balance,1989,1,1
+Rain Man,1988,4,8
+Dangerous Liaisons,1988,3,7
+Who Framed Roger Rabbit,1988,3 (1),6
+Mississippi Burning,1988,1,7
+Working Girl,1988,1,6
+The Accidental Tourist,1988,1,4
+A Fish Called Wanda,1988,1,3
+Pelle the Conqueror (Pelle erobreren),1988,1,2
+The Accused,1988,1,1
+The Appointments of Dennis Jennings,1988,1,1
+Beetlejuice,1988,1,1
+Bird,1988,1,1
+Hôtel Terminus: The Life and Times of Klaus Barbie,1988,1,1
+The Milagro Beanfield War,1988,1,1
+Tin Toy,1988,1,1
+You Don't Have to Die,1988,1,1
+The Last Emperor,1987,9,9
+Moonstruck,1987,3,6
+The Untouchables,1987,1,4
+Babette's Feast (Babettes gæstebud),1987,1,1
+Dirty Dancing,1987,1,1
+Harry and the Hendersons,1987,1,1
+Innerspace,1987,1,1
+The Man Who Planted Trees (L' Homme qui plantait des arbres),1987,1,1
+Ray's Male Heterosexual Dance Hall,1987,1,1
+The Ten-Year Lunch,1987,1,1
+Wall Street,1987,1,1
+Young at Heart,1987,1,1
+RoboCop,1987,0 (1),2
+Platoon,1986,4,8
+A Room with a View,1986,3,8
+Hannah and Her Sisters,1986,3,7
+Aliens,1986,2,7
+The Mission,1986,1,7
+Children of a Lesser God,1986,1,5
+The Color of Money,1986,1,4
+Top Gun,1986,1,4
+Round Midnight,1986,1,2
+Artie Shaw: Time Is All You've Got,1986,1,1
+The Assault (De Aanslag),1986,1,1
+Down and Out in America,1986,1,1
+The Fly,1986,1,1
+A Greek Tragedy,1986,1,1
+Precious Images,1986,1,1
+"Women – for America, for the World",1986,1,1
+Out of Africa,1985,7,11
+Witness,1985,2,8
+Cocoon,1985,2,2
+Prizzi's Honor,1985,1,8
+Back to the Future,1985,1,4
+Kiss of the Spider Woman,1985,1,4
+Ran,1985,1,4
+The Official Story (La Historia Oficial),1985,1,2
+The Trip to Bountiful,1985,1,2
+White Nights,1985,1,2
+Anna & Bella,1985,1,1
+Broken Rainbow,1985,1,1
+Mask,1985,1,1
+Molly's Pilgrim,1985,1,1
+Witness to War: Dr. Charlie Clements,1985,1,1
+Amadeus,1984,8,11
+The Killing Fields,1984,3,7
+A Passage to India,1984,2,11
+Places in the Heart,1984,2,7
+Indiana Jones and the Temple of Doom,1984,1,2
+Charade,1984,1,1
+Dangerous Moves (La Diagonale du fou),1984,1,1
+Purple Rain,1984,1,1
+The Stone Carvers,1984,1,1
+The Times of Harvey Milk,1984,1,1
+Up,1984,1,1
+The Woman in Red,1984,1,1
+The River,1984,0 (1),4
+Terms of Endearment,1983,5,11
+The Right Stuff,1983,4,8
+Fanny & Alexander (Fanny och Alexander),1983,4,6
+Tender Mercies,1983,2,5
+Yentl,1983,1,5
+Flashdance,1983,1,4
+Boys and Girls,1983,1,1
+Flamenco at 5:15,1983,1,1
+He Makes Me Feel Like Dancin',1983,1,1
+Sundae in New York,1983,1,1
+The Year of Living Dangerously,1983,1,1
+Return of the Jedi,1983,0 (1),4
+Gandhi,1982,8,11
+E.T.: The Extra-Terrestrial,1982,4,9
+An Officer and a Gentleman,1982,2,6
+Tootsie,1982,1,10
+Victor/Victoria,1982,1,7
+Sophie's Choice,1982,1,5
+Missing,1982,1,4
+If You Love This Planet,1982,1,1
+Just Another Missing Kid,1982,1,1[2]
+A Shocking Accident,1982,1,1
+Tango,1982,1,1
+To Begin Again (Volver a empezar),1982,1,1
+Quest for Fire,1982,1,1
+Chariots of Fire,1981,4,7
+Raiders of the Lost Ark,1981,4 (1),8
+Reds,1981,3,12
+On Golden Pond,1981,3,10
+Arthur,1981,2,4
+An American Werewolf in London,1981,1,1
+Close Harmony,1981,1,1
+Crac,1981,1,1
+Genocide,1981,1,1
+Mephisto,1981,1,1
+Violet,1981,1,1
+Ordinary People,1980,4,6
+Tess,1980,3,6
+Raging Bull,1980,2,8
+Fame,1980,2,6
+Melvin and Howard,1980,2,3
+Coal Miner's Daughter,1980,1,7
+The Empire Strikes Back,1980,1 (1),3
+The Dollar Bottom,1980,1,1
+The Fly (A Légy),1980,1,1
+From Mao to Mozart: Isaac Stern in China,1980,1,1
+Karl Hess: Toward Liberty,1980,1,1
+Moscow Does Not Believe in Tears,1980,1,1
+Kramer vs. Kramer,1979,5,9
+All That Jazz,1979,4,9
+Apocalypse Now,1979,2,8
+Norma Rae,1979,2,4
+Breaking Away,1979,1,5
+Alien,1979,1,2
+Being There,1979,1,2
+A Little Romance,1979,1,2
+Best Boy,1979,1,1
+Board and Care,1979,1,1
+Every Child,1979,1,1
+Paul Robeson: Tribute to an Artist,1979,1,1
+The Tin Drum (Die Blechtrommel),1979,1,1
+The Black Stallion,1979,0 (1),2
+The Deer Hunter,1978,5,9
+Coming Home,1978,3,8
+Midnight Express,1978,2,6
+Heaven Can Wait,1978,1,9
+Days of Heaven,1978,1,4
+California Suite,1978,1,3
+The Buddy Holly Story,1978,1,3
+Death on the Nile,1978,1,1
+The Flight of the Gossamer Condor,1978,1,1
+Get Out Your Handkerchiefs (Préparez vos mouchoirs),1978,1,1
+Scared Straight!,1978,1,1
+Special Delivery,1978,1,1
+Teenage Father,1978,1,1
+Thank God It's Friday,1978,1,1
+Superman,1978,0 (1),3
+Annie Hall,1977,4,5
+Star Wars,1977,6 (1),10
+Julia,1977,3,11
+Close Encounters of the Third Kind,1977,1 (1),8
+The Goodbye Girl,1977,1,5
+A Little Night Music,1977,1,2
+Gravity Is My Enemy,1977,1,1
+I'll Find a Way,1977,1,1
+Madame Rosa (La Vie devant soi),1977,1,1
+The Sand Castle (Le Château de sable),1977,1,1
+Who Are the DeBolts? And Where Did They Get Nineteen Kids?,1977,1,1
+You Light Up My Life,1977,1,1
+Rocky,1976,3,10
+Network,1976,4,10
+All the President's Men,1976,4,8
+Bound for Glory,1976,2,6
+A Star Is Born,1976,1,4
+Fellini's Casanova (Il Casanova di Federico Fellini),1976,1,2
+The Omen,1976,1,2
+Black and White in Color (Noirs et blancs en couleur),1976,1,1
+"Harlan County, USA",1976,1,1
+In the Region of Ice,1976,1,1
+Leisure,1976,1,1
+Number Our Days,1976,1,1
+King Kong,1976,0 (1),2
+Logan's Run,1976,0 (1),2
+One Flew over the Cuckoo's Nest,1975,5,9
+Barry Lyndon,1975,4,7
+Jaws,1975,3,4
+Dog Day Afternoon,1975,1,6
+Nashville,1975,1,5
+Shampoo,1975,1,4
+The Sunshine Boys,1975,1,4
+Angel and Big Joe,1975,1,1
+Dersu Uzala,1975,1,1
+The End of the Game,1975,1,1
+Great (Great (Isambard Kingdom Brunel)),1975,1,1
+The Man Who Skied Down Everest,1975,1,1
+The Hindenburg,1975,0 (2),3
+The Godfather Part II,1974,6,11
+The Towering Inferno,1974,3,8
+The Great Gatsby,1974,2,2
+Chinatown,1974,1,11
+Murder on the Orient Express,1974,1,6
+Earthquake,1974,1 (1),4
+Alice Doesn't Live Here Anymore,1974,1,3
+Amarcord,1974,1,3[3]
+Harry and Tonto,1974,1,2
+Closed Mondays,1974,1,1
+Don't,1974,1,1
+Hearts and Minds,1974,1,1
+"One-Eyed Men Are Kings (...borgnes sont rois, Les)",1974,1,1
+The Sting,1973,7,10
+The Exorcist,1973,2,10
+The Way We Were,1973,2,6
+Cries and Whispers (Viskningar och rop),1973,1,5
+A Touch of Class,1973,1,5
+Day for Night (La Nuit américaine),1973,1,4
+Paper Moon,1973,1,4
+The Paper Chase,1973,1,3
+Save the Tiger,1973,1,3
+The Bolero,1973,1,1
+Frank Film,1973,1,1
+The Great American Cowboy,1973,1,1
+Princeton: A Search for Answers,1973,1,1
+The Godfather,1972,3,10[4]
+Cabaret,1972,8,10
+The Poseidon Adventure,1972,1 (1),8
+Travels with My Aunt,1972,1,4
+Butterflies Are Free,1972,1,3
+The Candidate,1972,1,2
+The Discreet Charm of the Bourgeoisie (Le charme discret de la bourgeoisie),1972,1,2
+A Christmas Carol,1972,1,1[5]
+Limelight,1972,1,1[6]
+Marjoe,1972,1,1
+Norman Rockwell's World... An American Dream,1972,1,1
+This Tiny World,1972,1,1
+The French Connection,1971,5,8
+Fiddler on the Roof,1971,3,8
+The Last Picture Show,1971,2,8
+Nicholas and Alexandra,1971,2,6
+Sentinels of Silence,1971,2,2
+Bedknobs and Broomsticks,1971,1,5
+Summer of '42,1971,1,4
+The Garden of the Finzi-Continis (Il Giardino dei Finzi-Contini),1971,1,2
+The Hospital,1971,1,2
+Klute,1971,1,2
+Shaft,1971,1,2
+The Crunch Bird,1971,1,1
+The Hellstrom Chronicle,1971,1,1
+Patton,1970,7,10
+Ryan's Daughter,1970,2,4
+Airport,1970,1,10
+Love Story,1970,1,7
+M*A*S*H,1970,1,5
+Tora! Tora! Tora!,1970,1,5
+Women in Love,1970,1,4
+Lovers and Other Strangers,1970,1,3
+Woodstock,1970,1,3
+Cromwell,1970,1,2
+Investigation of a Citizen Above Suspicion (Indagine su un cittadino al di sopra di ogni sospetto),1970,1,2
+Interviews with My Lai Veterans,1970,1,1
+Is It Always Right to Be Right?,1970,1,1
+Let It Be,1970,1,1
+The Resurrection of Broncho Billy,1970,1,1
+Midnight Cowboy,1969,3,7
+Butch Cassidy and the Sundance Kid,1969,4,7
+"Hello, Dolly!",1969,3,7
+Z,1969,2,5
+Anne of the Thousand Days,1969,1,10
+"They Shoot Horses, Don't They?",1969,1,9
+Marooned,1969,1,3
+The Magic Machines,1969,1,2
+The Prime of Miss Jean Brodie,1969,1,2
+True Grit,1969,1,2
+Arthur Rubinstein – The Love of Life (L'amour de la vie - Artur Rubinstein),1969,1,1
+Cactus Flower,1969,1,1
+Czechoslovakia 1968,1969,1,1
+It's Tough to Be a Bird,1969,1,1
+Oliver!,1968,5 (1),11
+The Lion in Winter,1968,3,7
+Romeo and Juliet,1968,2,4
+Funny Girl,1968,1,8
+2001: A Space Odyssey,1968,1,4
+Bullitt,1968,1,2
+The Producers,1967,1,2
+Rosemary's Baby,1968,1,2
+The Subject Was Roses,1968,1,2
+The Thomas Crown Affair,1968,1,2
+War and Peace (Voyna i mir),1968,1,2
+Charly,1968,1,1
+Journey into Self,1968,1,1
+Robert Kennedy Remembered,1968,1,1
+Why Man Creates,1968,1,1
+Winnie the Pooh and the Blustery Day,1968,1,1
+Planet of the Apes,1968,0 (1),2
+In the Heat of the Night,1967,5,7
+Camelot,1967,3,5
+Bonnie and Clyde,1967,2,10
+Guess Who's Coming to Dinner,1967,2,10
+Doctor Dolittle,1967,2,9
+The Graduate,1967,1,7
+Thoroughly Modern Millie,1967,1,7
+Cool Hand Luke,1967,1,4
+The Dirty Dozen,1967,1,4
+A Place to Stand,1967,1,2
+The Anderson Platoon (La Section Anderson),1967,1,1
+The Box,1967,1,1
+Closely Watched Trains (Ostre sledované vlaky),1967,1,1
+The Redwoods,1967,1,1
+A Man for All Seasons,1966,6,8
+Who's Afraid of Virginia Woolf?,1966,5,13
+Grand Prix,1966,3,3
+Fantastic Voyage,1966,2,5
+A Man and a Woman,1966,2,4
+Born Free,1966,2,2
+The Fortune Cookie,1966,1,4
+A Funny Thing Happened on the Way to the Forum,1966,1,1
+A Herb Alpert and the Tijuana Brass Double Feature,1966,1,1
+The War Game,1966,1,1
+Wild Wings,1966,1,1
+A Year Toward Tomorrow,1966,1,1
+The Sound of Music,1965,5,10
+Doctor Zhivago,1965,5,10
+Darling,1965,3,5
+Ship of Fools,1965,2,8
+Cat Ballou,1965,1,5
+The Great Race,1965,1,5
+A Patch of Blue,1965,1,5
+A Thousand Clowns,1965,1,4
+The Shop on Main Street (Obchod na korze),1965,1,2
+The Sandpiper,1965,1,1
+The Eleanor Roosevelt Story,1965,1,1
+To Be Alive!,1965,1,1
+7 Faces of Dr. Lao,1964,0 (1),1
+7th Heaven,1927/28,3,5
+"20,000 Leagues Under the Sea",1954,2,3
+Adventures of Don Juan,1949,1,2
+The Adventures of Robin Hood,1938,3,4
+The African Queen,1951,1,4
+Air Force,1943,1,4
+The Alamo,1960,1,7
+The Alaskan Eskimo,1953,1,1
+Albert Schweitzer,1957,1,1
+Alexander's Ragtime Band,1938,1,6
+All About Eve,1950,6,14
+All Quiet on the Western Front,1929/30,2,4
+All That Money Can Buy,1941,1,2
+All the King's Men,1949,3,7
+Ama Girls,1958,1,1
+America America,1963,1,4
+An American in Paris,1951,6,8
+Amphibious Fighters,1943,1,1
+Anastasia,1956,1,2
+Anchors Aweigh,1945,1,5
+Anna and the King of Siam,1946,2,5
+Annie Get Your Gun,1950,1,4
+Anthony Adverse,1936,4,7
+The Apartment,1960,5,10
+Aquatic House Party,1949,1,1
+"Arise, My Love",1940,1,4
+Around the World in 80 Days,1956,5,8
+The Awful Truth,1937,1,6
+The Bachelor and the Bobby-Soxer,1947,1,1
+The Bad and the Beautiful,1952,5,6
+Bad Girl,1931/32,2,3
+The Barefoot Contessa,1954,1,2
+The Battle of Midway,1942,1,1
+Battleground,1949,2,6
+Bear Country,1953,1,1
+Becket,1964,1,12
+The Bells of St. Mary's,1945,1,8
+Ben-Hur,1959,11,12
+Benjy,1951,1,1
+The Bespoke Overcoat,1956,1,1
+The Best Years of Our Lives,1946,7 (1),8
+Beyond the Line of Duty,1942,1,1
+Bicycle Thieves,1949,0 (1),1
+The Big Broadcast of 1938,1938,1,1
+The Big Country,1958,1,2
+The Big House,1929/30,2,4
+Bill and Coo,1948,0 (1),0
+Birds Anonymous,1957,1,1
+The Bishop's Wife,1947,1,5
+Black Fox: The Rise and Fall of Adolf Hitler (The Black Fox),1962,1,1
+Black Narcissus,1947,2,2
+Black Orpheus (Orfeu Negro),1959,1,1
+The Black Swan,1942,1,3
+Blithe Spirit,1946,1,1
+Blood and Sand,1941,1,2
+Blood on the Sun,1945,1,1
+Blossoms in the Dust,1941,1,4
+Body and Soul,1947,1,3
+Bored of Education,1936,1,1
+Born Yesterday,1950,1,5
+A Boy and His Dog,1946,1,1
+Boys Town,1938,2,5
+The Brave One,1956,1,3
+Breakfast at Tiffany's,1961,2,5
+Breaking the Sound Barrier,1952,1,2
+The Bridge of San Luis Rey,1928/29,1,1
+The Bridge on the River Kwai,1957,7,8
+The Bridges at Toko-Ri,1955,1,2
+Broadway Melody of 1936,1935,1,3
+The Broadway Melody,1928/29,1,3
+Broken Lance,1954,1,2
+Busy Little Bears,1939,1,1
+BUtterfield 8,1960,1,2
+Calamity Jane,1953,1,3
+Call Me Madam,1953,1,2
+"Captain Carey, U.S.A.",1950,1,1
+Captains Courageous,1937,1,4
+Casablanca,1943,3,8
+Casals Conducts: 1964,1964,1,1
+The Cat Concerto,1946,1,1
+Cavalcade,1932/33,3,4
+Chagall,1963,1,1
+The Champ,1931/32,2,4
+Champion,1949,1,6
+A Chance to Live,1949,1,1
+The Charge of the Light Brigade,1936,1,3
+The Chicken (Le Poulet),1965,1,1
+Churchill's Island,1941,1,1
+Cimarron,1930/31,3,7
+The Circus,1927/28,0 (1),0
+Citizen Kane,1941,1,9
+City of Wax,1934,1,1
+Cleopatra,1934,1,5
+Cleopatra,1963,4,9
+Climbing the Matterhorn,1947,1,1
+Come and Get It,1936,1,2
+"Come Back, Little Sheba",1952,1,3
+Coquette,1928/29,1,1
+The Country Cousin,1936,1,1
+The Country Girl,1954,2,7
+Cover Girl,1944,1,5
+The Cowboy and the Lady,1938,1,3
+Crash Dive,1943,1,1
+Crashing the Water Barrier,1956,1,1
+The Critic,1963,1,1
+La Cucaracha,1934,1,1
+Cyrano de Bergerac,1950,1,1
+A Damsel in Distress,1937,1,2
+Dangerous,1935,1,1
+The Dark Angel,1935,1,3
+The Dawn Patrol,1930/31,1,1
+Day of the Painter,1960,1,1
+Daybreak in Udi,1949,1,1
+Days of Wine and Roses,1962,1,5
+December 7th,1943,1,1
+Declaration of Independence,1938,1,1
+The Defiant Ones,1958,2,9
+Der Fuehrer's Face,1942,1,1
+Desert Victory,1943,1,1
+Design for Death,1947,1,1
+Designing Woman,1957,1,1
+Destination Moon,1950,1,2
+The Diary of Anne Frank,1959,3,8
+Disraeli,1929/30,1,3
+The Divine Lady,1928/29,1,3
+Divorce Italian Style,1962,1,3
+The Divorcee,1929/30,1,4
+Dodsworth,1936,1,7
+The Dot and the Line (The Dot and the Line: A Romance in Lower Mathematics),1965,1,1
+A Double Life,1947,2,4
+The Dove,1927/28,1,1
+Dr. Jekyll and Mr. Hyde,1931/32,1,3
+Dumbo,1941,1,2
+Dylan Thomas,1962,1,1
+East of Eden,1955,1,4
+Easter Parade,1948,1,1
+Elmer Gantry,1960,3,5
+The Enemy Below,1957,1,1
+Eskimo,1934,1,1
+Exodus,1960,1,3
+The Face of Lincoln,1955,1,2
+Facing Your Danger,1946,1,1
+The Facts of Life,1960,1,5
+Fantasia,1940,0 (2),0
+A Farewell to Arms,1932/33,2,4
+The Farmer's Daughter,1947,1,2
+Father Goose,1964,1,3
+Federico Fellini's 8½,1963,2,5
+Ferdinand the Bull,1938,1,1
+The Fighting Lady,1944,1,1
+First Steps,1947,1,1
+Flowers and Trees,1931/32,1,1
+Folies Bergere,1935,1,1
+For Scent-imental Reasons,1949,1,1
+For Whom the Bell Tolls,1943,1,9
+Forbidden Games,1952,0 (1),1
+A Force in Readiness,1961,0 (1),0
+A Free Soul,1930/31,1,3
+Frenchman's Creek,1945,1,1
+From Here to Eternity,1953,8,13
+The Garden of Allah,1936,0 (1),2
+Gaslight,1944,2,7
+Gate of Hell (Jigokumon),1954,1 (1),1
+The Gay Divorcee,1934,1,5
+Gentleman's Agreement,1947,3,8
+Gerald McBoing-Boing,1950,1,1
+Giant,1956,1,10
+Gigi,1958,9,9
+Giuseppina,1960,1,1
+Give Me Liberty,1936,1,1
+Glass (Glas),1959,1,1
+The Glenn Miller Story,1954,1,3
+Going My Way,1944,7,10
+Gold Diggers of 1935,1935,1,2
+The Golden Fish (Histoire d'un poisson rouge),1959,1,1
+Goldfinger,1964,1,1
+Gone with the Wind,1939,8 (2),13
+The Good Earth,1937,2,5
+"Goodbye, Miss Turlock",1947,1,1
+"Goodbye, Mr. Chips",1939,1,7
+Grand Canyon,1958,1,1
+Grand Hotel,1931/32,1,1
+Grandad of Races,1950,1,1
+The Grapes of Wrath,1940,2,7
+The Great Caruso,1951,1,3
+Great Expectations,1947,2,5
+The Great Lie,1941,1,1
+The Great McGinty,1940,1,1
+The Great Waltz,1938,1,3
+The Great Ziegfeld,1936,3,7
+The Greatest Show on Earth,1952,2,5
+Green Dolphin Street,1947,1,4
+The Guns of Navarone,1961,1,7
+Hamlet,1948,4,7
+Happy Anniversary (Heureux Anniversaire),1962,1,1
+Harvey,1950,1,2
+The Harvey Girls,1946,1,2
+Heavenly Music,1943,1,1
+The Heiress,1949,4,8
+Helen Keller in Her Story (The Unconquered),1955,1,1
+"Hello, Frisco, Hello",1943,1,2
+Henry V,1946,0 (1),4
+Here Comes Mr. Jordan,1941,2,7
+Here Comes the Groom,1951,1,2
+The High and the Mighty,1954,1,6
+High Noon,1952,4,7
+Hitler Lives,1945,1,1
+A Hole in the Head,1959,1,1
+The Hole,1962,1,1
+Holiday Inn,1942,1,3
+The Horse with the Flying Tail,1960,1,1
+The House I Live In,1945,0 (1),0
+The House on 92nd Street,1945,1,1
+How Green Was My Valley,1941,5,10
+How the West Was Won,1963,3,8
+How to Sleep,1935,1,1
+Hud,1963,3,7
+The Human Comedy,1943,1,5
+The Hurricane,1937,1,3
+The Hustler,1961,2,9
+I Want to Live!,1958,1,6
+I Wanted Wings,1941,1,1
+I Won't Play,1944,1,1
+I'll Cry Tomorrow,1955,1,4
+In Beaver Valley,1950,1,1
+In Old Arizona,1928/29,1,5
+In Old Chicago,1937,2,6
+In Which We Serve,1942,0 (1),2
+The Informer,1935,4,6
+Interrupted Melody,1955,1,3
+The Invaders,1942,1,3
+Irma la Douce,1963,1,3
+It Happened One Night,1934,5,5
+"It's a Mad, Mad, Mad, Mad World",1963,1,6
+The Jazz Singer,1927/28,0 (1),1
+Jezebel,1938,2,5
+Joan of Arc,1948,2 (1),7
+Johann Mouse,1952,1,1
+Johnny Belinda,1948,1,12
+Johnny Eager,1942,1,1
+The Joker Is Wild,1957,1,1
+The Jolson Story,1946,2,6
+Judgment at Nuremberg,1961,2,11
+Julius Caesar,1953,1,5
+Kentucky,1938,1,1
+Key Largo,1948,1,1
+The King and I,1956,5,9
+King of Jazz,1929/30,1,1
+King Solomon's Mines,1950,2,3
+Kitty Foyle (Kitty Foyle: The Natural History of a Woman),1940,1,5
+Knighty Knight Bugs,1958,1,1
+Kokoda Front Line!,1942,1,1
+Kon-Tiki,1950,1,1
+Krakatoa,1932/33,1,1
+Kukan,1941,0 (1),0
+La Strada (The Road),1956,1,2
+La Dolce Vita,1961,1,4
+Lady Be Good,1941,1,1
+The Last Command,1927/28,1,2
+Laura,1944,1,5
+The Lavender Hill Mob,1952,1,2
+Lawrence of Arabia,1962,7,10
+Leave Her to Heaven,1945,1,4
+Lend a Paw,1941,1,1
+Les Girls,1957,1,3
+A Letter to Three Wives,1949,2,3
+The Life of Emile Zola,1937,3,10
+Light in the Window,1952,1,1
+Lili,1953,1,6
+Lilies of the Field,1963,1,5
+The Little Kidnappers (The Kidnappers),1954,0 (2),0
+The Little Orphan,1948,1,1
+Little Women,1932/33,1,3
+Little Women,1949,1,2
+The Lives of a Bengal Lancer,1935,1,7
+The Living Desert,1953,1,1
+The Longest Day,1962,2,5
+Lost Horizon,1937,2,7
+The Lost Weekend,1945,4,7
+Love Is a Many-Splendored Thing,1955,3,8
+Love Me or Leave Me,1955,1,6
+Lust for Life,1956,1,4
+Magoo's Puddle Jumper,1956,1,1
+Main Street on the March!,1941,1,1
+The Man Who Knew Too Much,1956,1,1
+Manhattan Melodrama,1934,1,1
+Marie-Louise,1945,1,1
+Marty,1955,4,8
+Mary Poppins,1964,5,13
+Men Against the Arctic,1955,1,1
+The Merry Widow,1934,1,1
+A Midsummer Night's Dream,1935,2,4[7]
+Mighty Joe Young,1949,1,1
+Mildred Pierce,1945,1,6
+The Milky Way,1940,1,1
+Min and Bill,1930/31,1,1
+Miracle on 34th Street,1947,3,4
+The Miracle Worker,1962,2,5
+Mister Roberts,1955,1,3
+Monsieur Vincent,1948,0 (1),0
+Moonbird,1959,1,1
+The More the Merrier,1943,1,6
+Morning Glory,1932/33,1,1
+Moscow Strikes Back,1942,1,1
+Mother Wore Tights,1947,1,3
+Moulin Rouge,1952,2,7
+Mouse Trouble,1944,1,1
+Mr. Deeds Goes to Town,1936,1,5
+Mr. Smith Goes to Washington,1939,1,11
+Mrs. Miniver,1942,6,12
+Munro,1960,1,1
+The Music Box,1931/32,1,1
+The Music Man,1962,1,6
+Mutiny on the Bounty,1935,1,8
+My Fair Lady,1964,8,12
+My Uncle (Mon oncle),1958,1,1
+My Gal Sal,1942,1,2
+The Naked City,1948,2,3
+National Velvet,1945,2,5
+Nature's Half Acre,1951,1,1
+Naughty Marietta,1935,1,2
+Neighbours,1952,1,2
+Neptune's Daughter,1949,1,1
+Never on Sunday (Pote tin Kyriaki),1960,1,5
+The Night of the Iguana,1964,1,4
+Nights of Cabiria (Le Notti di Cabiria),1957,1,1
+Nine from Little Rock,1964,1,1
+None But the Lonely Heart,1944,1,4
+North West Mounted Police,1940,1,5
+"Now, Voyager",1942,1,3
+An Occurrence at Owl Creek Bridge,1963,1,1[8]
+Of Pups and Puzzles,1941,1,1
+Oklahoma!,1955,2,4
+The Old Man and the Sea,1958,1,3
+The Old Mill,1937,1,1
+On the Town,1949,1,1
+On the Waterfront,1954,8,12
+One Hundred Men and a Girl,1937,1,5
+One Night of Love,1934,2,6
+One Way Passage,1932/33,1,1
+Overture to The Merry Wives of Windsor,1953,1,1
+The Paleface,1948,1,1
+Panic in the Streets,1950,1,1
+Papa's Delicate Condition,1963,1,1
+The Patriot,1928/29,1,5
+Penny Wisdom,1937,1,1
+Phantom of the Opera,1943,2,4
+The Philadelphia Story,1940,2,6
+Picnic,1955,2,6
+The Picture of Dorian Gray,1945,1,3
+Pillow Talk,1959,1,5
+The Pink Phink,1964,1,1
+Pinocchio,1940,2,2
+A Place in the Sun,1951,6,9
+Plymouth Adventure,1952,1,1
+Pollyanna,1960,0 (1),0
+Porgy and Bess,1959,1,4
+Portrait of Jennie,1948,1,2
+Prelude to War,1942,1,1
+Pride and Prejudice,1940,1,1
+The Pride of the Yankees,1942,1,11
+Princess O'Rourke,1943,1,1
+The Private Life of Henry VIII,1932/33,1,2
+The Private Life of the Gannets,1937,1,1
+Project Hope,1961,1,1
+The Public Pays,1936,1,1
+Pygmalion,1938,1,4
+Quicker'n a Wink,1940,1,1
+The Quiet Man,1952,2,7
+Quiet Please!,1945,1,1
+The Rains Came,1939,1,6[9]
+Rashomon,1951,0 (1),1
+The Razor's Edge,1946,1,4
+Reap the Wild Wind,1942,1,3
+Rebecca,1940,2,11
+The Red Balloon (Le ballon rouge),1956,1,1
+The Red Shoes,1948,2,5
+The Robe,1953,2,5
+Robert Frost: A Lover's Quarrel with the World,1963,1,1
+Roman Holiday,1953,3,10
+Room at the Top,1959,2,6
+The Rose Tattoo,1955,3,8
+Sabrina,1954,1,6
+Samson and Delilah,1950,2,5
+Samurai I: Musashi Miyamoto (Miyamoto Musashi),1955,0 (1),0
+San Francisco,1936,1,6
+Sayonara,1957,4,10
+The Scoundrel,1935,1,1
+The Sea Around Us,1952,1,1
+Seal Island,1948,1,1
+The Search,1948,1 (1),4
+Seawards the Great Ships,1961,1,1
+The Secret Land,1948,1,1
+Seeds of Destiny,1946,1,1
+Separate Tables,1958,2,7
+Serengeti Shall Not Die (Serengeti darf nicht sterben),1959,1,1
+Sergeant York,1941,2,11
+Seven Brides for Seven Brothers,1954,1,5
+Seven Days to Noon,1951,1,1
+The Seventh Veil,1946,1,1
+Shane,1953,1,6
+Shanghai Express,1931/32,1,3
+She Wore a Yellow Ribbon,1949,1,1
+Shoeshine (Sciuscià),1947,0 (1),1
+The Silent World (Le Monde du silence),1956,1,1
+The Sin of Madelon Claudet,1931/32,1,1
+Since You Went Away,1944,1,9
+Skippy,1930/31,1,4
+Sky Above and Mud Beneath (Le Ciel et la boue),1961,1,1
+The Snake Pit,1948,1,6
+Snow White and the Seven Dwarfs,1937,0 (1),1
+So Much for So Little,1949,1,1
+So This Is Harris!,1932/33,1,1
+The Solid Gold Cadillac,1956,1,2
+Some Like It Hot,1959,1,6
+Somebody Up There Likes Me,1956,2,3
+The Song of Bernadette,1943,4,12
+Song of the South,1947,1 (1),2
+Song Without End,1960,1,1
+Sons and Lovers,1960,1,7
+Sons of Liberty,1939,1,1
+South Pacific,1958,1,3
+Spartacus,1960,4,6
+Spawn of the North,1938,0 (1),0
+Speaking of Animals and Their Families,1942,1,1
+Speedy Gonzales,1955,1,1
+Spellbound,1945,1,6
+Splendor in the Grass,1961,1,2
+Stagecoach,1939,2,7
+Stairway to Light,1945,1,1
+Stalag 17,1953,1,3
+Star in the Night,1945,1,1
+A Star Is Born,1937,1 (1),7
+State Fair,1945,1,2
+The Story of Louis Pasteur,1936,3,4
+The Stratton Story,1949,1,1
+Street Angel,1927/28,1,3
+A Streetcar Named Desire,1951,4,12
+Strike Up the Band,1940,1,3
+The Substitute,1961,1,1
+Sundays and Cybele (Le Dimanches de Ville d'Avray),1962,1,3
+Sunrise,1927/28,3,4[10]
+Sunset Boulevard,1950,3,11
+Survival City,1955,1,1
+Suspicion,1941,1,3
+Sweet Bird of Youth,1962,1,3
+Sweethearts,1938,0 (1),2
+Swing Time,1936,1,2
+Symphony of a City,1948,1,1
+Tabu,1930/31,1,1
+Target for Tonight,1941,0 (1),0
+"Teddy, the Rough Rider",1940,1,1
+Tempest,1927/28,1,1
+The Ten Commandments,1956,1,7
+That Hamilton Woman,1941,1,4
+That Mothers Might Live,1938,1,1
+The Thief of Bagdad,1940,3,4
+The Third Man,1950,1,3
+Thirty Seconds Over Tokyo,1944,1,2
+This Above All,1942,1,4
+This Is the Army,1943,1,3
+This Land Is Mine,1943,1,1
+This Mechanical Age,1954,1,1
+Three Coins in the Fountain,1954,2,3
+The Three Faces of Eve,1957,1,1
+Three Little Pigs,1932/33,1,1
+Three Orphan Kittens,1935,1,1
+Through a Glass Darkly (Såsom i en spegel),1961,1,2
+Thunderball,1965,1,1
+Thursday's Children,1954,1,1
+The Time Machine,1960,1,1
+A Time Out of War,1954,1,1
+Tin Pan Alley,1940,1,1
+The Titan: Story of Michelangelo,1950,1,1
+Titanic,1953,1,2
+To Catch a Thief,1955,1,3
+To Each His Own,1946,1,2
+To Kill a Mockingbird,1962,3,8
+Tom Jones,1963,4,10
+tom thumb,1958,1,1
+"Toot, Whistle, Plunk and Boom",1953,1,1
+Topkapi,1964,1,1
+The Tortoise and the Hare,1934,1,1
+Torture Money,1937,1,1
+Toward Independence,1948,1,1
+Transatlantic,1931/32,1,1
+The Treasure of the Sierra Madre,1948,3,4
+A Tree Grows in Brooklyn,1945,1,2
+The True Glory,1945,1,1
+The True Story of the Civil War,1956,1,1
+Tweetie Pie,1947,1,1
+Twelve O'Clock High,1949,2,4
+Two Arabian Knights,1927/28,1,1
+The Two Mouseketeers,1951,1,1
+Two Women (La Ciociara),1961,1,1
+The Ugly Duckling,1939,1,1
+Underworld,1927/28,1,1
+The V.I.P.s,1963,1,1
+Vacation from Marriage (UK title Perfect Strangers),1946,1,1
+Van Gogh,1949,1,1
+The Vanishing Prairie,1954,1,1
+The Virgin Spring (Jungfrukällan),1960,1,2
+Viva Villa!,1934,1,4
+Viva Zapata!,1952,1,5
+Waikiki Wedding,1937,1,2
+The Walls of Malapaga,1950,0 (1),0
+The War of the Worlds,1953,1,3
+Watch on the Rhine,1943,1,4
+Water Birds,1952,1,1
+The Way of All Flesh,1927/28,1,1
+West Side Story,1961,10,11
+The Westerner,1940,1,3
+The Wetback Hound,1957,1,1
+What Ever Happened to Baby Jane?,1962,1,5
+When Tomorrow Comes,1939,1,1
+When Magoo Flew,1954,1,1
+When Worlds Collide,1951,1,2
+White Shadows in the South Seas,1928/29,1,1
+White Wilderness,1958,1,2
+Who's Who in Animal Land,1944,1,1
+Why Korea?,1950,1,1
+Wilson,1944,5,10
+Wings,1927/28,2,2
+Wings Over Everest,1935,1,1
+With a Song in My Heart,1952,1,5
+With Byrd at the South Pole,1929/30,1,1
+With the Marines at Tarawa,1944,1,1
+The Wizard of Oz,1939,2,6[11]
+Woman of the Year,1942,1,2
+Wonder Man,1945,1,4
+The Wonderful World of the Brothers Grimm,1962,1,4
+World of Kids,1951,1,1
+World Without Sun (Le Monde sans soleil),1964,1,1
+Wrestling Swordfish,1931/32,1,1
+Written on the Wind,1956,1,3
+Wuthering Heights,1939,1,8
+Yankee Doodle Dandy,1942,3,8
+The Yankee Doodle Mouse,1943,1,1
+The Yearling,1946,2,7
+"Yesterday, Today and Tomorrow (Ieri, oggi, domani)",1964,1,1
+You Can't Take It with You,1938,2,7
+Zorba the Greek (Alexis Zorbas),1964,3,7
+
+Year,Actor,Role(s),Film,Ref.
+1927/28 (1st),Emil Jannings [A],Grand Duke Sergius AlexanderAugust Schilling,The Last CommandThe Way of All Flesh,[8]
+1927/28 (1st),Richard Barthelmess,Nickie ElkinsPatent Leather Kid,The NooseThe Patent Leather Kid,[8]
+1928/29(2nd)[note 1],Warner Baxter,The Cisco Kid,In Old Arizona,[9]
+1928/29(2nd)[note 1],George Bancroft,Thunderbolt Jim Lang,Thunderbolt,[9]
+1928/29(2nd)[note 1],Chester Morris,Chick Williams,Alibi,[9]
+1928/29(2nd)[note 1],Paul Muni,James Dyke,The Valiant,[9]
+1928/29(2nd)[note 1],Lewis Stone,Count Pahlen,The Patriot,[9]
+
+Year,Actor,Role(s),Film,Ref.
+1929/30 (3rd),George Arliss [B],Benjamin Disraeli,Disraeli,[10]
+1929/30 (3rd),George Arliss[B],The Raja,The Green Goddess,[10]
+1929/30 (3rd),Wallace Beery,"Butch ""Machine Gun"" Schmidt",The Big House,[10]
+1929/30 (3rd),Maurice Chevalier [B],Pierre Mirande  Count Alfred Renard,The Big Pond  The Love Parade,[10]
+1929/30 (3rd),Ronald Colman [B],"Capt. Hugh ""Bulldog"" Drummond  Michel",Bulldog Drummond  Condemned,[10]
+1929/30 (3rd),Lawrence Tibbett,Yegor,The Rogue Song,[10]
+1930/31 (4th),Lionel Barrymore,Stephen Ashe,A Free Soul,[11]
+1930/31 (4th),Jackie Cooper,Skippy Skinner,Skippy,[11]
+1930/31 (4th),Richard Dix,Yancey Cravat,Cimarron,[11]
+1930/31 (4th),Fredric March,Tony Cavendish,The Royal Family of Broadway,[11]
+1930/31 (4th),Adolphe Menjou,Walter Burns,The Front Page,[11]
+1931/32 (5th),Wallace Beery  (TIE) [C],"Andy ""Champ"" Purcell",The Champ,[12]
+1931/32 (5th),Fredric March  (TIE) [C],Dr. Henry Jekyll / Mr. Edward Hyde,Dr. Jekyll and Mr. Hyde,[12]
+1931/32 (5th),Alfred Lunt,The Actor,The Guardsman,[12]
+1932/33 (6th),Charles Laughton,King Henry VIII,The Private Life of Henry VIII,[13]
+1932/33 (6th),Leslie Howard,Peter Standish,Berkeley Square,[13]
+1932/33 (6th),Paul Muni,James Allen,I Am a Fugitive from a Chain Gang,[13]
+1934 (7th),Clark Gable,Peter Warne,It Happened One Night,[14]
+1934 (7th),Frank Morgan,"Alessandro, Duke of Florence",The Affairs of Cellini,[14]
+1934 (7th),William Powell,Nick Charles,The Thin Man,[14]
+1935 (8th),Victor McLaglen,Gypo Nolan,The Informer,[15]
+1935 (8th),Clark Gable,Lt. Fletcher Christian,Mutiny on the Bounty,[15]
+1935 (8th),Charles Laughton,Captain William Bligh,Mutiny on the Bounty,[15]
+1935 (8th),Franchot Tone,Midshipman Roger Byam,Mutiny on the Bounty,[15]
+1936 (9th),Paul Muni,Louis Pasteur,The Story of Louis Pasteur,[16]
+1936 (9th),Gary Cooper,Longfellow Deeds,Mr. Deeds Goes to Town,[16]
+1936 (9th),Walter Huston,Sam Dodsworth,Dodsworth,[16]
+1936 (9th),William Powell,Godfrey Park,My Man Godfrey,[16]
+1936 (9th),Spencer Tracy,Father Tim Mullin,San Francisco,[16]
+1937 (10th),Spencer Tracy,Manuel Fidello,Captains Courageous,[17]
+1937 (10th),Charles Boyer,Emperor Napoleon Bonaparte,Conquest,[17]
+1937 (10th),Fredric March,Norman Maine,A Star Is Born,[17]
+1937 (10th),Robert Montgomery,Danny,Night Must Fall,[17]
+1937 (10th),Paul Muni,Émile Zola,The Life of Emile Zola,[17]
+1938 (11th),Spencer Tracy,Father Flanagan,Boys Town,[18]
+1938 (11th),Charles Boyer,Pepe le Moko,Algiers,[18]
+1938 (11th),James Cagney,Rocky Sullivan,Angels with Dirty Faces,[18]
+1938 (11th),Robert Donat,Dr. Andrew Manson,The Citadel,[18]
+1938 (11th),Leslie Howard,Professor Henry Higgins,Pygmalion,[18]
+1939 (12th),Robert Donat,Charles Edward Chipping,"Goodbye, Mr. Chips",[19]
+1939 (12th),Clark Gable,Rhett Butler,Gone with the Wind,[19]
+1939 (12th),Laurence Olivier,Heathcliff,Wuthering Heights,[19]
+1939 (12th),Mickey Rooney,Mickey Moran,Babes in Arms,[19]
+1939 (12th),James Stewart,Jefferson Smith,Mr. Smith Goes to Washington,[19]
+
+Year,Actor,Role(s),Film,Ref.
+1940 (13th),James Stewart,"Macaulay ""Mike"" Connor",The Philadelphia Story,[21]
+1940 (13th),Charlie Chaplin,"Adenoid Hynkel and ""The Barber""",The Great Dictator,[21]
+1940 (13th),Henry Fonda,Tom Joad,The Grapes of Wrath,[21]
+1940 (13th),Raymond Massey,Abraham Lincoln,Abe Lincoln in Illinois,[21]
+1940 (13th),Laurence Olivier,"Maximilian ""Maxim"" de Winter",Rebecca,[21]
+1941 (14th),Gary Cooper,Sgt. Alvin York,Sergeant York,[22]
+1941 (14th),Cary Grant,Roger Adams,Penny Serenade,[22]
+1941 (14th),Walter Huston,Mr. Scratch,The Devil and Daniel Webster,[22]
+1941 (14th),Robert Montgomery,Joe Pendleton,Here Comes Mr. Jordan,[22]
+1941 (14th),Orson Welles,Charles Foster Kane,Citizen Kane,[22]
+1942 (15th),James Cagney,George M. Cohan,Yankee Doodle Dandy,[23]
+1942 (15th),Ronald Colman,Charles Rainier,Random Harvest,[23]
+1942 (15th),Gary Cooper,Lou Gehrig,The Pride of the Yankees,[23]
+1942 (15th),Walter Pidgeon,Clem Miniver,Mrs. Miniver,[23]
+1942 (15th),Monty Woolley,Howard,The Pied Piper,[23]
+1943 (16th),Paul Lukas,Kurt Muller,Watch on the Rhine,[24]
+1943 (16th),Humphrey Bogart,Rick Blaine,Casablanca,[24]
+1943 (16th),Gary Cooper,Robert Jordan,For Whom the Bell Tolls,[24]
+1943 (16th),Walter Pidgeon,Pierre Curie,Madame Curie,[24]
+1943 (16th),Mickey Rooney,Homer Macauley,The Human Comedy,[24]
+1944 (17th),Bing Crosby,Father Chuck O'Malley,Going My Way,[25]
+1944 (17th),Charles Boyer,Gregory Anton,Gaslight,[25]
+1944 (17th),Barry Fitzgerald,Father Fitzgibbon,Going My Way,[25]
+1944 (17th),Cary Grant,Ernie Mott,None but the Lonely Heart,[25]
+1944 (17th),Alexander Knox,Woodrow Wilson,Wilson,[25]
+1945 (18th),Ray Milland,Don Birnam,The Lost Weekend,[26]
+1945 (18th),Bing Crosby,Father Chuck O'Malley,The Bells of St. Mary's,[26]
+1945 (18th),Gene Kelly,Joseph Brady,Anchors Aweigh,[26]
+1945 (18th),Gregory Peck,Father Francis,The Keys of the Kingdom,[26]
+1945 (18th),Cornel Wilde,Frédéric Chopin,A Song to Remember,[26]
+1946 (19th),Fredric March,Platoon Sergeant Al Stephenson,The Best Years of Our Lives,[27]
+1946 (19th),Laurence Olivier,King Henry V of England,Henry V,[27]
+1946 (19th),Larry Parks,Al Jolson,The Jolson Story,[27]
+1946 (19th),Gregory Peck,"Ezra ""Penny"" Baxter",The Yearling,[27]
+1946 (19th),James Stewart,George Bailey,It's a Wonderful Life,[27]
+1947 (20th),Ronald Colman,Anthony John,A Double Life,[28]
+1947 (20th),John Garfield,Charlie Davis,Body and Soul,[28]
+1947 (20th),Gregory Peck,Philip Schuyler Green,Gentleman's Agreement,[28]
+1947 (20th),William Powell,"Clarence Day, Sr.",Life with Father,[28]
+1947 (20th),Michael Redgrave,Orin Mannon,Mourning Becomes Electra,[28]
+1948 (21st),Laurence Olivier,"Hamlet, Prince of Denmark",Hamlet,[29]
+1948 (21st),Lew Ayres,Dr. Robert Richardson,Johnny Belinda,[29]
+1948 (21st),Montgomery Clift,"Ralph ""Steve"" Stevenson",The Search,[29]
+1948 (21st),Dan Dailey,"""Skid"" Johnson",When My Baby Smiles at Me,[29]
+1948 (21st),Clifton Webb,Lynn Aloysius Belvedere,Sitting Pretty,[29]
+1949 (22nd),Broderick Crawford,Willie Stark,All the King's Men,[30]
+1949 (22nd),Kirk Douglas,"Michael ""Midge"" Kelly",Champion,[30]
+1949 (22nd),Gregory Peck,Brig. General Frank Savage,Twelve O'Clock High,[30]
+1949 (22nd),Richard Todd,"Cpl. Lachlan ""Lachie"" MacLachlan",The Hasty Heart,[30]
+1949 (22nd),John Wayne,Sergeant John M. Stryker,Sands of Iwo Jima,[30]
+
+Year,Actor,Role(s),Film,Ref.
+1950 (23rd),José Ferrer,Cyrano de Bergerac,Cyrano de Bergerac,[31]
+1950 (23rd),Louis Calhern,Oliver Wendell Holmes,The Magnificent Yankee,[31]
+1950 (23rd),William Holden,Joe Gillis,Sunset Boulevard,[31]
+1950 (23rd),James Stewart,Elwood P. Dowd,Harvey,[31]
+1950 (23rd),Spencer Tracy,Stanley T. Banks,Father of the Bride,[31]
+1951 (24th),Humphrey Bogart,Charlie Allnut,The African Queen,[32]
+1951 (24th),Marlon Brando,Stanley Kowalski,A Streetcar Named Desire,[32]
+1951 (24th),Montgomery Clift,George Eastman,A Place in the Sun,[32]
+1951 (24th),Arthur Kennedy,Larry Nevins,Bright Victory,[32]
+1951 (24th),Fredric March,Willy Loman,Death of a Salesman,[32]
+1952 (25th),Gary Cooper,Marshal Will Kane,High Noon,[33]
+1952 (25th),Marlon Brando,Emiliano Zapata,Viva Zapata!,[33]
+1952 (25th),Kirk Douglas,Jonathan Shields,The Bad and the Beautiful,[33]
+1952 (25th),José Ferrer,Henri de Toulouse-Lautrec and Comte Alphonse de Toulouse-Lautrec,Moulin Rouge,[33]
+1952 (25th),Alec Guinness,Holland,The Lavender Hill Mob,[33]
+1953 (26th),William Holden,Sgt. J.J. Sefton,Stalag 17,[34]
+1953 (26th),Marlon Brando,Mark Antony,Julius Caesar,[34]
+1953 (26th),Richard Burton,Marcellus Gallio,The Robe,[34]
+1953 (26th),Montgomery Clift,"Pvt. Robert E. Lee ""Prew"" Prewitt",From Here to Eternity,[34]
+1953 (26th),Burt Lancaster,1st Sgt. Milton Warden,From Here to Eternity,[34]
+1954 (27th),Marlon Brando,Terry Malloy,On the Waterfront,[35]
+1954 (27th),Humphrey Bogart,Lt. Cmdr. Philip Francis Queeg,The Caine Mutiny,[35]
+1954 (27th),Bing Crosby,Frank Elgin,The Country Girl,[35]
+1954 (27th),James Mason,Norman Maine,A Star Is Born,[35]
+1954 (27th),Dan O'Herlihy,Robinson Crusoe,Robinson Crusoe,[35]
+1955 (28th),Ernest Borgnine,Marty Piletti,Marty,[36]
+1955 (28th),James Cagney,Martin Snyder,Love Me or Leave Me,[36]
+1955 (28th),James Dean (posthumous),Cal Trask,East of Eden,[36]
+1955 (28th),Frank Sinatra,Frankie Machine,The Man with the Golden Arm,[36]
+1955 (28th),Spencer Tracy,John J. Macreedy,Bad Day at Black Rock,[36]
+1956 (29th),Yul Brynner,King Mongkut of Siam,The King and I,[37]
+1956 (29th),James Dean (posthumous),Jett Rink,Giant,[37]
+1956 (29th),Kirk Douglas,Vincent van Gogh,Lust for Life,[37]
+1956 (29th),Rock Hudson,"Jordan ""Bick"" Benedict Jr.",Giant,[37]
+1956 (29th),Laurence Olivier,King Richard III of England,Richard III,[37]
+1957 (30th),Alec Guinness,Lt. Colonel Nicholson,The Bridge on the River Kwai,[38]
+1957 (30th),Marlon Brando,"Major Lloyd ""Ace"" Gruver, USAF",Sayonara,[38]
+1957 (30th),Anthony Franciosa,Polo Pope,A Hatful of Rain,[38]
+1957 (30th),Charles Laughton,Sir Wilfrid Robarts,Witness for the Prosecution,[38]
+1957 (30th),Anthony Quinn,Gino,Wild Is the Wind,[38]
+1958 (31st),David Niven,Major Angus Pollock,Separate Tables,[39]
+1958 (31st),Tony Curtis,"John ""Joker"" Jackson",The Defiant Ones,[39]
+1958 (31st),Paul Newman,Brick Pollitt,Cat on a Hot Tin Roof,[39]
+1958 (31st),Sidney Poitier,Noah Cullen,The Defiant Ones,[39]
+1958 (31st),Spencer Tracy,The Old Man,The Old Man and the Sea,[39]
+1959 (32nd),Charlton Heston,Judah Ben-Hur,Ben-Hur,[40]
+1959 (32nd),Laurence Harvey,Joe Lampton,Room at the Top,[40]
+1959 (32nd),Jack Lemmon,Jerry / Daphne,Some Like It Hot,[40]
+1959 (32nd),Paul Muni,Dr. Sam Abelman,The Last Angry Man,[40]
+1959 (32nd),James Stewart,Paul Biegler,Anatomy of a Murder,[40]
+
+Year,Actor,Role(s),Film,Ref.
+1960 (33rd),Burt Lancaster,Elmer Gantry,Elmer Gantry,[42]
+1960 (33rd),Trevor Howard,Walter Morel,Sons and Lovers,[42]
+1960 (33rd),Jack Lemmon,"C. C. ""Bud"" Baxter",The Apartment,[42]
+1960 (33rd),Laurence Olivier,Archie Rice,The Entertainer,[42]
+1960 (33rd),Spencer Tracy,Henry Drummond,Inherit the Wind,[42]
+1961 (34th),Maximilian Schell,Hans Rolfe,Judgment at Nuremberg,[43]
+1961 (34th),Charles Boyer,Cesar,Fanny,[43]
+1961 (34th),Paul Newman,Eddie Felson,The Hustler,[43]
+1961 (34th),Spencer Tracy,Chief Judge Dan Haywood,Judgment at Nuremberg,[43]
+1961 (34th),Stuart Whitman,Jim Fuller,The Mark,[43]
+1962 (35th),Gregory Peck,Atticus Finch,To Kill a Mockingbird,[44]
+1962 (35th),Burt Lancaster,Robert Stroud,Birdman of Alcatraz,[44]
+1962 (35th),Jack Lemmon,Joe Clay,Days of Wine and Roses,[44]
+1962 (35th),Marcello Mastroianni,Ferdinando Cefalù,Divorce Italian Style,[44]
+1962 (35th),Peter O'Toole,T. E. Lawrence,Lawrence of Arabia,[44]
+1963 (36th),Sidney Poitier,Homer Smith,Lilies of the Field,[45]
+1963 (36th),Albert Finney,Tom Jones,Tom Jones,[45]
+1963 (36th),Richard Harris,Frank Machin,This Sporting Life,[45]
+1963 (36th),Rex Harrison,Julius Caesar,Cleopatra,[45]
+1963 (36th),Paul Newman,Hud Bannon,Hud,[45]
+1964 (37th),Rex Harrison,Professor Henry Higgins,My Fair Lady,[46]
+1964 (37th),Richard Burton,Thomas Becket,Becket,[46]
+1964 (37th),Peter O'Toole,King Henry II of England,Becket,[46]
+1964 (37th),Anthony Quinn,Alexis Zorba,Zorba the Greek,[46]
+1964 (37th),Peter Sellers,"Group Captain Lionel Mandrake, President Merkin Muffley, and Dr. Strangelove",Dr. Strangelove,[46]
+1965 (38th),Lee Marvin,Kid Shelleen and Tim Strawn,Cat Ballou,[47]
+1965 (38th),Richard Burton,Alec Leamas,The Spy Who Came In from the Cold,[47]
+1965 (38th),Laurence Olivier,Othello,Othello,[47]
+1965 (38th),Rod Steiger,Sol Nazerman,The Pawnbroker,[47]
+1965 (38th),Oskar Werner,Willie Schumann,Ship of Fools,[47]
+1966 (39th),Paul Scofield,Sir Thomas More,A Man for All Seasons,[48]
+1966 (39th),Alan Arkin,Lt. Rozanov,"The Russians Are Coming, the Russians Are Coming",[48]
+1966 (39th),Richard Burton,George,Who's Afraid of Virginia Woolf?,[48]
+1966 (39th),Michael Caine,Alfie Elkins,Alfie,[48]
+1966 (39th),Steve McQueen,Jake Holman,The Sand Pebbles,[48]
+1967 (40th),Rod Steiger,Police Chief Bill Gillespie,In the Heat of the Night,[49]
+1967 (40th),Warren Beatty,Clyde Barrow,Bonnie and Clyde,[49]
+1967 (40th),Dustin Hoffman,Benjamin Braddock,The Graduate,[49]
+1967 (40th),Paul Newman,"Lucas ""Cool Hand Luke"" Jackson",Cool Hand Luke,[49]
+1967 (40th),Spencer Tracy (posthumous),Matt Drayton,Guess Who's Coming to Dinner,[49]
+1968 (41st),Cliff Robertson,Charly Gordon,Charly,[50]
+1968 (41st),Alan Arkin,John Singer,The Heart Is a Lonely Hunter,[50]
+1968 (41st),Alan Bates,Yakov Bok,The Fixer,[50]
+1968 (41st),Ron Moody,Fagin,Oliver!,[50]
+1968 (41st),Peter O'Toole,King Henry II of England,The Lion in Winter,[50]
+1969 (42nd),John Wayne,"Reuben ""Rooster"" Cogburn",True Grit,[51]
+1969 (42nd),Richard Burton,King Henry VIII,Anne of the Thousand Days,[51]
+1969 (42nd),Dustin Hoffman,"Enrico Salvatore ""Ratso"" ""Rico"" Rizzo",Midnight Cowboy,[51]
+1969 (42nd),Peter O'Toole,Arthur Chipping,"Goodbye, Mr. Chips",[51]
+1969 (42nd),Jon Voight,Joe Buck,Midnight Cowboy,[51]
+
+Year,Actor,Role(s),Film,Ref.
+1970 (43rd),George C. Scott §[52],General George S. Patton Jr.,Patton,[53]
+1970 (43rd),Melvyn Douglas,Tom Garrison,I Never Sang for My Father,[53]
+1970 (43rd),James Earl Jones,Jack Jefferson,The Great White Hope,[53]
+1970 (43rd),Jack Nicholson,Robert Eroica Dupea,Five Easy Pieces,[53]
+1970 (43rd),Ryan O'Neal,Oliver Barrett IV,Love Story,[53]
+1971 (44th),Gene Hackman,"Detective Jimmy ""Popeye"" Doyle",The French Connection,[54]
+1971 (44th),Peter Finch,Dr. Daniel Hirsh,Sunday Bloody Sunday,[54]
+1971 (44th),Walter Matthau,Joseph P. Kotcher,Kotch,[54]
+1971 (44th),George C. Scott,Dr. Herbert Bock,The Hospital,[54]
+1971 (44th),Topol,Tevye,Fiddler on the Roof,[54]
+1972 (45th),Marlon Brando §[52],Vito Corleone,The Godfather,[55]
+1972 (45th),Michael Caine,Milo Tindle,Sleuth,[55]
+1972 (45th),Laurence Olivier,Andrew Wyke,Sleuth,[55]
+1972 (45th),Peter O'Toole,"Jack Gurney, 14th Earl of Gurney",The Ruling Class,[55]
+1972 (45th),Paul Winfield,Nathan Lee Morgan,Sounder,[55]
+1973 (46th),Jack Lemmon,Harry Stoner,Save the Tiger,[56]
+1973 (46th),Marlon Brando,Paul,Last Tango in Paris,[56]
+1973 (46th),Jack Nicholson,"Signalman First Class Billy L. ""Badass"" Buddusky",The Last Detail,[56]
+1973 (46th),Al Pacino,Frank Serpico,Serpico,[56]
+1973 (46th),Robert Redford,"Johnny ""Kelly"" Hooker",The Sting,[56]
+1974 (47th),Art Carney,Harry Coombes,Harry and Tonto,[57]
+1974 (47th),Albert Finney,Hercule Poirot,Murder on the Orient Express,[57]
+1974 (47th),Dustin Hoffman,Lenny Bruce,Lenny,[57]
+1974 (47th),Jack Nicholson,"J. J. ""Jake"" Gittes",Chinatown,[57]
+1974 (47th),Al Pacino,Michael Corleone,The Godfather Part II,[57]
+1975 (48th),Jack Nicholson,"Randle Patrick ""Mac"" McMurphy",One Flew Over the Cuckoo's Nest,[58]
+1975 (48th),Walter Matthau,Willy Clark,The Sunshine Boys,[58]
+1975 (48th),Al Pacino,Sonny Wortzik,Dog Day Afternoon,[58]
+1975 (48th),Maximilian Schell,Arthur Goldman,The Man in the Glass Booth,[58]
+1975 (48th),James Whitmore,Harry S. Truman,"Give 'em Hell, Harry!",[58]
+1976 (49th),Peter Finch †,Howard Beale,Network,[59]
+1976 (49th),Robert De Niro,Travis Bickle,Taxi Driver,[59]
+1976 (49th),Giancarlo Giannini,Pasqualino Frafuso,Seven Beauties,[59]
+1976 (49th),William Holden,Max Schumacher,Network,[59]
+1976 (49th),Sylvester Stallone,Rocky Balboa,Rocky,[59]
+1977 (50th),Richard Dreyfuss,Elliot Garfield,The Goodbye Girl,[60]
+1977 (50th),Woody Allen,Alvy Singer,Annie Hall,[60]
+1977 (50th),Richard Burton,Martin Dysart,Equus,[60]
+1977 (50th),Marcello Mastroianni,Gabriele,A Special Day,[60]
+1977 (50th),John Travolta,"Anthony ""Tony"" Manero",Saturday Night Fever,[60]
+1978 (51st),Jon Voight,Luke Martin,Coming Home,[61]
+1978 (51st),Warren Beatty,Joe Pendleton,Heaven Can Wait,[61]
+1978 (51st),Gary Busey,Buddy Holly,The Buddy Holly Story,[61]
+1978 (51st),Robert De Niro,Michael Vronsky,The Deer Hunter,[61]
+1978 (51st),Laurence Olivier,Ezra Lieberman,The Boys from Brazil,[61]
+1979 (52nd),Dustin Hoffman,Ted Kramer,Kramer vs. Kramer,[62]
+1979 (52nd),Jack Lemmon,Jack Godell,The China Syndrome,[62]
+1979 (52nd),Al Pacino,Arthur Kirkland,...And Justice for All.,[62]
+1979 (52nd),Roy Scheider,Joe Gideon,All That Jazz,[62]
+1979 (52nd),Peter Sellers,Chauncey Gardiner,Being There,[62]
+
+Year,Actor,Role(s),Film,Ref.
+1980 (53rd),Robert De Niro,Jake LaMotta,Raging Bull,[63]
+1980 (53rd),Robert Duvall,"Lt. Col. Wilbur ""Bull"" Meechum",The Great Santini,[63]
+1980 (53rd),John Hurt,John Merrick,The Elephant Man,[63]
+1980 (53rd),Jack Lemmon,Scottie Templeton,Tribute,[63]
+1980 (53rd),Peter O'Toole,Eli Cross,The Stunt Man,[63]
+1981 (54th),Henry Fonda,Norman Thayer Jr.,On Golden Pond,[64]
+1981 (54th),Warren Beatty,"John Silas ""Jack"" Reed",Reds,[64]
+1981 (54th),Burt Lancaster,Lou Pascal,Atlantic City,[64]
+1981 (54th),Dudley Moore,Arthur Bach,Arthur,[64]
+1981 (54th),Paul Newman,Michael Colin Gallagher,Absence of Malice,[64]
+1982 (55th),Ben Kingsley,Mahatma Gandhi,Gandhi,[65]
+1982 (55th),Dustin Hoffman,Michael Dorsey / Dorothy Michaels,Tootsie,[65]
+1982 (55th),Jack Lemmon,Edmund Horman,Missing,[65]
+1982 (55th),Paul Newman,Frank Galvin,The Verdict,[65]
+1982 (55th),Peter O'Toole,Alan Swann,My Favorite Year,[65]
+1983 (56th),Robert Duvall,Mac Sledge,Tender Mercies,[66]
+1983 (56th),Michael Caine,Dr. Frank Bryant,Educating Rita,[66]
+1983 (56th),Tom Conti,Gowan McGland,"Reuben, Reuben",[66]
+1983 (56th),Tom Courtenay,Norman,The Dresser,[66]
+1983 (56th),Albert Finney,Sir,The Dresser,[66]
+1984 (57th),F. Murray Abraham,Antonio Salieri,Amadeus,[67]
+1984 (57th),Jeff Bridges,Starman,Starman,[67]
+1984 (57th),Albert Finney,Geoffrey Firmin,Under the Volcano,[67]
+1984 (57th),Tom Hulce,Wolfgang Amadeus Mozart,Amadeus,[67]
+1984 (57th),Sam Waterston,Sydney Schanberg,The Killing Fields,[67]
+1985 (58th),William Hurt,Luis Molina,Kiss of the Spider Woman,[68]
+1985 (58th),Harrison Ford,Detective Captain John Book,Witness,[68]
+1985 (58th),James Garner,Murphy Jones,Murphy's Romance,[68]
+1985 (58th),Jack Nicholson,Charley Partanna,Prizzi's Honor,[68]
+1985 (58th),Jon Voight,"Oscar ""Manny"" Manheim",Runaway Train,[68]
+1986 (59th),Paul Newman,Fast Eddie Felson,The Color of Money,[69]
+1986 (59th),Dexter Gordon,Dale Turner,Round Midnight,[69]
+1986 (59th),Bob Hoskins,George,Mona Lisa,[69]
+1986 (59th),William Hurt,James Leeds,Children of a Lesser God,[69]
+1986 (59th),James Woods,Richard Boyle,Salvador,[69]
+1987 (60th),Michael Douglas,Gordon Gekko,Wall Street,[70]
+1987 (60th),William Hurt,Tom Grunick,Broadcast News,[70]
+1987 (60th),Marcello Mastroianni,Romano,Dark Eyes,[70]
+1987 (60th),Jack Nicholson,Francis Phelan,Ironweed,[70]
+1987 (60th),Robin Williams,Adrian Cronauer,"Good Morning, Vietnam",[70]
+1988 (61st),Dustin Hoffman,Raymond Babbitt,Rain Man,[71]
+1988 (61st),Gene Hackman,Agent Rupert Anderson,Mississippi Burning,[71]
+1988 (61st),Tom Hanks,Josh Baskin,Big,[71]
+1988 (61st),Edward James Olmos,Jaime Escalante,Stand and Deliver,[71]
+1988 (61st),Max von Sydow,Lassefar,Pelle the Conqueror,[71]
+1989 (62nd),Daniel Day-Lewis,Christy Brown,My Left Foot,[72]
+1989 (62nd),Kenneth Branagh,King Henry V of England,Henry V,[72]
+1989 (62nd),Tom Cruise,Ron Kovic,Born on the Fourth of July,[72]
+1989 (62nd),Morgan Freeman,Hoke Colburn,Driving Miss Daisy,[72]
+1989 (62nd),Robin Williams,"John Charles ""Keats"" Keating",Dead Poets Society,[72]
+
+Year,Actor,Role(s),Film,Ref.
+1990 (63rd),Jeremy Irons,Claus von Bülow,Reversal of Fortune,[73]
+1990 (63rd),Kevin Costner,Lieutenant John J. Dunbar,Dances with Wolves,[73]
+1990 (63rd),Robert De Niro,Leonard Lowe,Awakenings,[73]
+1990 (63rd),Gérard Depardieu,Cyrano de Bergerac,Cyrano de Bergerac,[73]
+1990 (63rd),Richard Harris,"""Bull"" McCabe",The Field,[73]
+1991 (64th),Anthony Hopkins,Dr. Hannibal Lecter,The Silence of the Lambs,[74]
+1991 (64th),Warren Beatty,"Benjamin ""Bugsy"" Siegel",Bugsy,[74]
+1991 (64th),Robert De Niro,"Maximilian ""Max"" Cady",Cape Fear,[74]
+1991 (64th),Nick Nolte,Tom Wingo,The Prince of Tides,[74]
+1991 (64th),Robin Williams,"Henry ""Parry"" Sagan",The Fisher King,[74]
+1992 (65th),Al Pacino,Lieutenant Colonel Frank Slade,Scent of a Woman,[75]
+1992 (65th),Robert Downey Jr.,Charlie Chaplin,Chaplin,[75]
+1992 (65th),Clint Eastwood,"William ""Will"" Munny",Unforgiven,[75]
+1992 (65th),Stephen Rea,Fergus,The Crying Game,[75]
+1992 (65th),Denzel Washington,Malcolm X,Malcolm X,[75]
+1993 (66th),Tom Hanks,"Andrew ""Andy"" Beckett",Philadelphia,[76]
+1993 (66th),Daniel Day-Lewis,Gerry Conlon,In the Name of the Father,[76]
+1993 (66th),Laurence Fishburne,Ike Turner,What's Love Got to Do with It,[76]
+1993 (66th),Anthony Hopkins,James Stevens,The Remains of the Day,[76]
+1993 (66th),Liam Neeson,Oskar Schindler,Schindler's List,[76]
+1994 (67th),Tom Hanks,Forrest Gump,Forrest Gump,[77]
+1994 (67th),Morgan Freeman,"Ellis Boyd ""Red"" Redding",The Shawshank Redemption,[77]
+1994 (67th),Nigel Hawthorne,King George III,The Madness of King George,[77]
+1994 (67th),Paul Newman,"Donald ""Sully"" Sullivan",Nobody's Fool,[77]
+1994 (67th),John Travolta,Vincent Vega,Pulp Fiction,[77]
+1995 (68th),Nicolas Cage,Ben Sanderson,Leaving Las Vegas,[78]
+1995 (68th),Richard Dreyfuss,Glenn Holland,Mr. Holland's Opus,[78]
+1995 (68th),Anthony Hopkins,Richard Nixon,Nixon,[78]
+1995 (68th),Sean Penn,Matthew Poncelet,Dead Man Walking,[78]
+1995 (68th),Massimo Troisi (posthumous),Mario Ruoppolo,Il Postino: The Postman,[78]
+1996 (69th),Geoffrey Rush,David Helfgott,Shine,[79]
+1996 (69th),Tom Cruise,Jerry Maguire,Jerry Maguire,[79]
+1996 (69th),Ralph Fiennes,Count László de Almásy,The English Patient,[79]
+1996 (69th),Woody Harrelson,Larry Flynt,The People vs. Larry Flynt,[79]
+1996 (69th),Billy Bob Thornton,Karl Childers,Sling Blade,[79]
+1997 (70th),Jack Nicholson,Melvin Udall,As Good as It Gets,[80]
+1997 (70th),Matt Damon,Will Hunting,Good Will Hunting,[80]
+1997 (70th),Robert Duvall,"Euliss ""Sonny"" Dewey",The Apostle,[80]
+1997 (70th),Peter Fonda,"Ulysses ""Ulee"" Jackson",Ulee's Gold,[80]
+1997 (70th),Dustin Hoffman,Stanley Motss,Wag the Dog,[80]
+1998 (71st),Roberto Benigni,Guido Orefice,Life Is Beautiful,[81]
+1998 (71st),Tom Hanks,Captain John H. Miller,Saving Private Ryan,[81]
+1998 (71st),Ian McKellen,James Whale,Gods and Monsters,[81]
+1998 (71st),Nick Nolte,Wade Whitehouse,Affliction,[81]
+1998 (71st),Edward Norton,Derek Vinyard,American History X,[81]
+1999 (72nd),Kevin Spacey,Lester Burnham,American Beauty,[82]
+1999 (72nd),Russell Crowe,Jeffrey Wigand,The Insider,[82]
+1999 (72nd),Richard Farnsworth,Alvin Straight,The Straight Story,[82]
+1999 (72nd),Sean Penn,Emmet Ray,Sweet and Lowdown,[82]
+1999 (72nd),Denzel Washington,"Rubin ""The Hurricane"" Carter",The Hurricane,[82]
+
+Year,Actor,Role(s),Film,Ref.
+2000 (73rd),Russell Crowe,Maximus Decimus Meridius,Gladiator,[83]
+2000 (73rd),Javier Bardem,Reinaldo Arenas,Before Night Falls,[83]
+2000 (73rd),Tom Hanks,Chuck Noland,Cast Away,[83]
+2000 (73rd),Ed Harris,Jackson Pollock,Pollock,[83]
+2000 (73rd),Geoffrey Rush,Marquis de Sade,Quills,[83]
+2001 (74th),Denzel Washington,Det. Sgt. Alonzo Harris,Training Day,[84]
+2001 (74th),Russell Crowe,John Forbes Nash Jr.,A Beautiful Mind,[84]
+2001 (74th),Sean Penn,Sam Dawson,I Am Sam,[84]
+2001 (74th),Will Smith,Muhammad Ali,Ali,[84]
+2001 (74th),Tom Wilkinson,Dr. Matt Fowler,In the Bedroom,[84]
+2002 (75th),Adrien Brody,Władysław Szpilman,The Pianist,[85]
+2002 (75th),Nicolas Cage,Charlie Kaufman and Donald Kaufman,Adaptation,[85]
+2002 (75th),Michael Caine,Thomas Fowler,The Quiet American,[85]
+2002 (75th),Daniel Day-Lewis,"William ""Bill the Butcher"" Cutting",Gangs of New York,[85]
+2002 (75th),Jack Nicholson,Warren R. Schmidt,About Schmidt,[85]
+2003 (76th),Sean Penn,Jimmy Markum,Mystic River,[86]
+2003 (76th),Johnny Depp,Captain Jack Sparrow,Pirates of the Caribbean: The Curse of the Black Pearl,[86]
+2003 (76th),Ben Kingsley,Colonel Massoud Amir Behrani,House of Sand and Fog,[86]
+2003 (76th),Jude Law,W. P. Inman,Cold Mountain,[86]
+2003 (76th),Bill Murray,Bob Harris,Lost in Translation,[86]
+2004 (77th),Jamie Foxx,Ray Charles,Ray,[87]
+2004 (77th),Don Cheadle,Paul Rusesabagina,Hotel Rwanda,[87]
+2004 (77th),Johnny Depp,J. M. Barrie,Finding Neverland,[87]
+2004 (77th),Leonardo DiCaprio,Howard Hughes,The Aviator,[87]
+2004 (77th),Clint Eastwood,Frankie Dunn,Million Dollar Baby,[87]
+2005 (78th),Philip Seymour Hoffman,Truman Capote,Capote,[88]
+2005 (78th),Terrence Howard,Djay,Hustle & Flow,[88]
+2005 (78th),Heath Ledger,Ennis Del Mar,Brokeback Mountain,[88]
+2005 (78th),Joaquin Phoenix,Johnny Cash,Walk the Line,[88]
+2005 (78th),David Strathairn,Edward R. Murrow,"Good Night, and Good Luck",[88]
+2006 (79th),Forest Whitaker,Idi Amin,The Last King of Scotland,[89]
+2006 (79th),Leonardo DiCaprio,Danny Archer,Blood Diamond,[89]
+2006 (79th),Ryan Gosling,Dan Dunne,Half Nelson,[89]
+2006 (79th),Peter O'Toole,Maurice Russell,Venus,[89]
+2006 (79th),Will Smith,Chris Gardner,The Pursuit of Happyness,[89]
+2007 (80th),Daniel Day-Lewis,Daniel Plainview,There Will Be Blood,[90]
+2007 (80th),George Clooney,Michael Clayton,Michael Clayton,[90]
+2007 (80th),Johnny Depp,Sweeney Todd / Benjamin Barker,Sweeney Todd: The Demon Barber of Fleet Street,[90]
+2007 (80th),Tommy Lee Jones,Hank Deerfield,In the Valley of Elah,[90]
+2007 (80th),Viggo Mortensen,Nikolai Luzhin,Eastern Promises,[90]
+2008 (81st),Sean Penn,Harvey Milk,Milk,[91]
+2008 (81st),Richard Jenkins,Walter Vale,The Visitor,[91]
+2008 (81st),Frank Langella,Richard Nixon,Frost/Nixon,[91]
+2008 (81st),Brad Pitt,Benjamin Button,The Curious Case of Benjamin Button,[91]
+2008 (81st),Mickey Rourke,"Randy ""The Ram"" Robinson",The Wrestler,[91]
+2009 (82nd),Jeff Bridges,"Otis ""Bad"" Blake",Crazy Heart,[92]
+2009 (82nd),George Clooney,Ryan Bingham,Up in the Air,[92]
+2009 (82nd),Colin Firth,George Falconer,A Single Man,[92]
+2009 (82nd),Morgan Freeman,Nelson Mandela,Invictus,[92]
+2009 (82nd),Jeremy Renner,SFC William James,The Hurt Locker,[92]
+
+Year,Actor,Role(s),Film,Ref.
+2010 (83rd),Colin Firth,King George VI,The King's Speech,[93]
+2010 (83rd),Javier Bardem,Uxbal,Biutiful,[93]
+2010 (83rd),Jeff Bridges,"Reuben ""Rooster"" Cogburn",True Grit,[93]
+2010 (83rd),Jesse Eisenberg,Mark Zuckerberg,The Social Network,[93]
+2010 (83rd),James Franco,Aron Ralston,127 Hours,[93]
+2011 (84th),Jean Dujardin,George Valentin,The Artist,[94]
+2011 (84th),Demián Bichir,Carlos Galindo,A Better Life,[94]
+2011 (84th),George Clooney,Matthew King,The Descendants,[94]
+2011 (84th),Gary Oldman,George Smiley,Tinker Tailor Soldier Spy,[94]
+2011 (84th),Brad Pitt,Billy Beane,Moneyball,[94]
+2012 (85th),Daniel Day-Lewis,Abraham Lincoln,Lincoln,[95]
+2012 (85th),Bradley Cooper,"Patrizio ""Pat"" Solitano, Jr.",Silver Linings Playbook,[95]
+2012 (85th),Hugh Jackman,Jean Valjean,Les Misérables,[95]
+2012 (85th),Joaquin Phoenix,Freddie Quell,The Master,[95]
+2012 (85th),Denzel Washington,"William ""Whip"" Whitaker, Sr.",Flight,[95]
+2013 (86th),Matthew McConaughey,Ron Woodroof,Dallas Buyers Club,[96]
+2013 (86th),Christian Bale,Irving Rosenfeld,American Hustle,[96]
+2013 (86th),Bruce Dern,"Woodrow ""Woody"" Grant",Nebraska,[96]
+2013 (86th),Leonardo DiCaprio,Jordan Belfort,The Wolf of Wall Street,[96]
+2013 (86th),Chiwetel Ejiofor,Solomon Northup,12 Years a Slave,[96]
+2014 (87th),Eddie Redmayne,Stephen Hawking,The Theory of Everything,[97]
+2014 (87th),Steve Carell,John du Pont,Foxcatcher,[97]
+2014 (87th),Bradley Cooper,Chris Kyle,American Sniper,[97]
+2014 (87th),Benedict Cumberbatch,Alan Turing,The Imitation Game,[97]
+2014 (87th),Michael Keaton,Riggan Thomson,Birdman,[97]
+2015 (88th),Leonardo DiCaprio,Hugh Glass,The Revenant,[98]
+2015 (88th),Bryan Cranston,Dalton Trumbo,Trumbo,[98]
+2015 (88th),Matt Damon,Mark Watney,The Martian,[98]
+2015 (88th),Michael Fassbender,Steve Jobs,Steve Jobs,[98]
+2015 (88th),Eddie Redmayne,Lili Elbe,The Danish Girl,[98]
+2016 (89th),Casey Affleck,Lee Chandler,Manchester by the Sea,[99]
+2016 (89th),Andrew Garfield,Desmond Doss,Hacksaw Ridge,[99]
+2016 (89th),Ryan Gosling,Sebastian Wilder,La La Land,[99]
+2016 (89th),Viggo Mortensen,Ben Cash,Captain Fantastic,[99]
+2016 (89th),Denzel Washington,Troy Maxson,Fences,[99]
+2017 (90th),Gary Oldman,Winston Churchill,Darkest Hour,[100]
+2017 (90th),Timothée Chalamet,Elio Perlman,Call Me by Your Name,[100]
+2017 (90th),Daniel Day-Lewis,Reynolds Woodcock,Phantom Thread,[100]
+2017 (90th),Daniel Kaluuya,Chris Washington,Get Out,[100]
+2017 (90th),Denzel Washington,Roman J. Israel,"Roman J. Israel, Esq.",[100]
+2018 (91st),Rami Malek,Freddie Mercury,Bohemian Rhapsody,[101]
+2018 (91st),Christian Bale,Dick Cheney,Vice,[101]
+2018 (91st),Bradley Cooper,Jackson Maine,A Star Is Born,[101]
+2018 (91st),Willem Dafoe,Vincent van Gogh,At Eternity's Gate,[101]
+2018 (91st),Viggo Mortensen,"Tony ""Lip"" Vallelonga",Green Book,[101]
+2019 (92nd),Joaquin Phoenix,Arthur Fleck / Joker,Joker,[102]
+2019 (92nd),Antonio Banderas,Salvador Mallo,Pain and Glory,[102]
+2019 (92nd),Leonardo DiCaprio,Rick Dalton,Once Upon a Time in Hollywood,[102]
+2019 (92nd),Adam Driver,Charlie Barber,Marriage Story,[102]
+2019 (92nd),Jonathan Pryce,Cardinal Jorge Mario Bergoglio,The Two Popes,[102]
+
+Year,Actor,Role(s),Film,Ref.
+2020/21[103] (93rd),Anthony Hopkins,Anthony,The Father,[104]
+2020/21[103] (93rd),Riz Ahmed,Ruben Stone,Sound of Metal,[104]
+2020/21[103] (93rd),Chadwick Boseman (posthumous),Levee Green,Ma Rainey's Black Bottom,[104]
+2020/21[103] (93rd),Gary Oldman,Herman J. Mankiewicz,Mank,[104]
+2020/21[103] (93rd),Steven Yeun,Jacob Yi,Minari,[104]
+
+Wins,Actor,Nominations
+3,Daniel Day-Lewis,6
+2,Spencer Tracy,9
+2,Jack Nicholson,8
+2,Marlon Brando,7
+2,Dustin Hoffman,7
+2,Gary Cooper,5
+2,Tom Hanks,5
+2,Fredric March,5
+2,Sean Penn,5
+2,Anthony Hopkins,4
+
+Nominations,Actor
+9,Laurence Olivier
+9,Spencer Tracy
+8,Paul Newman
+8,Jack Nicholson
+8,Peter O'Toole
+7,Marlon Brando
+7,Dustin Hoffman
+7,Jack Lemmon
+6,Richard Burton
+6,Daniel Day-Lewis
+6,Denzel Washington
+5,Gary Cooper
+5,Robert De Niro
+5,Leonardo DiCaprio
+5,Tom Hanks
+5,Fredric March
+5,Paul Muni
+5,Al Pacino
+5,Gregory Peck
+5,Sean Penn
+5,James Stewart
+4,Warren Beatty
+4,Charles Boyer
+4,Michael Caine
+4,Albert Finney
+4,Anthony Hopkins
+4,Burt Lancaster
+
+Character,Actor,Movie,Year,Status,Observation
+King Henry VIII,Charles Laughton,The Private Life of Henry VIII,1933,Won,
+King Henry VIII,Richard Burton,Anne of the Thousand Days,1969,Nominated,
+Norman Maine,Fredric March,A Star is Born,1937,Nominated,"Bradley Cooper was also nominated for his performance on the 2018 remake of A Star Is Born, although his character was only a rendition of Norman Maine, re-imagined as country singer Jackson Maine."
+Norman Maine,James Mason,A Star Is Born,1954,Nominated,"Bradley Cooper was also nominated for his performance on the 2018 remake of A Star Is Born, although his character was only a rendition of Norman Maine, re-imagined as country singer Jackson Maine."
+Chuck O'Malley,Bing Crosby,Going My Way,1944,Won,
+Chuck O'Malley,Bing Crosby,The Bells of St. Mary's,1945,Nominated,Sequel of Going My Way.
+Henry Higgins,Leslie Howard,Pygmalion,1938,Nominated,
+Henry Higgins,Rex Harrison,My Fair Lady,1964,Won,"Adaptation of Lerner and Loewe's 1956 stage musical which is based on George Bernard Shaw's 1913 stage play, Pygmalion."
+King Henry II,Peter O'Toole,Becket,1964,Nominated,
+King Henry II,Peter O'Toole,The Lion in Winter,1968,Nominated,
+Arthur Chipping,Robert Donat,"Goodbye, Mr. Chips",1939,Won,
+Arthur Chipping,Peter O'Toole,"Goodbye, Mr. Chips",1969,Nominated,"The 1969 version of Goodbye, Mr. Chips is not a remake of the 1939 one. Screenwriter Terence Rattigan opted to adapt James Hilton's eponymous novel from scratch."
+Joe Pendleton,Robert Montgomery,Here Comes Mr. Jordan,1941,Nominated,
+Joe Pendleton,Warren Beatty,Heaven Can Wait,1978,Nominated,Remake of Here Comes Mr. Jordan.
+Eddie Felson,Paul Newman,The Hustler,1961,Nominated,
+Eddie Felson,Paul Newman,The Color of Money,1986,Won,Sequel of The Hustler.
+King Henry V,Laurence Olivier,Henry V,1944,Nominated,
+King Henry V,Kenneth Branagh,Henry V,1989,Nominated,
+Cyrano de Bergerac,José Ferrer,Cyrano de Bergerac,1950,Won,
+Cyrano de Bergerac,Gérard Depardieu,Cyrano de Bergerac,1990,Nominated,Not a remake of the 1950 version but an entirely new adaptation from Edmond Rostand 1897 eponymous play.
+Richard Nixon,Anthony Hopkins,Nixon,1995,Nominated,
+Richard Nixon,Frank Langella,Frost/Nixon,2008,Nominated,
+Rooster Cogburn,John Wayne,True Grit,1969,Won,
+Rooster Cogburn,Jeff Bridges,True Grit,2010,Nominated,Remake of the 1969 version.
+Abraham Lincoln,Raymond Massey,Abe Lincoln in Illinois,1940,Nominated,
+Abraham Lincoln,Daniel Day-Lewis,Lincoln,2012,Won,
+Vincent van Gogh,Kirk Douglas,Lust for Life,1956,Nominated,
+Vincent van Gogh,Willem Dafoe,At Eternity's Gate,2018,Nominated,
+
+Character,Category,Actor,Movie,Year,Status
+King Henry VIII,Leading,Charles Laughton,The Private Life of Henry VIII,1933,Won
+King Henry VIII,Leading,Richard Burton,Anne of the Thousand Days,1969,Nominated
+King Henry VIII,Supporting,Robert Shaw,A Man for All Seasons,1966,Nominated
+Vito Corleone,Leading,Marlon Brando,The Godfather,1972,Won
+Vito Corleone,Supporting,Robert De Niro,The Godfather Part II,1974,Won
+Michael Corleone,Leading,Al Pacino,The Godfather Part II,1974,Nominated
+Michael Corleone,Supporting,Al Pacino,The Godfather,1972,Nominated
+Rocky Balboa,Leading,Sylvester Stallone,Rocky,1976,Nominated
+Rocky Balboa,Supporting,Sylvester Stallone,Creed,2015,Nominated
+Howard Hughes,Leading,Leonardo DiCaprio,The Aviator,2004,Nominated
+Howard Hughes,Supporting,Jason Robards,Melvin and Howard,1980,Nominated
+The Joker,Leading,Joaquin Phoenix,Joker,2019,Won
+The Joker,Supporting,Heath Ledger,The Dark Knight,2008,Won
+
+Movie,Actor,Year,Status
+Mutiny on the Bounty,Clark Gable,1935,Nominated
+Mutiny on the Bounty,Charles Laughton,1935,Nominated
+Mutiny on the Bounty,Franchot Tone,1935,Nominated
+Going My Way,Bing Crosby,1944,Won
+Going My Way,Barry Fitzgerald,1944,Nominated
+From Here to Eternity,Montgomery Clift,1953,Nominated
+From Here to Eternity,Burt Lancaster,1953,Nominated
+Giant,James Dean,1956,Nominated
+Giant,Rock Hudson,1956,Nominated
+The Defiant Ones,Tony Curtis,1958,Nominated
+The Defiant Ones,Sidney Poitier,1958,Nominated
+Judgment at Nuremberg,Maximilian Schell,1961,Won
+Judgment at Nuremberg,Spencer Tracy,1961,Nominated
+Becket,Richard Burton,1964,Nominated
+Becket,Peter O'Toole,1964,Nominated
+Midnight Cowboy,Dustin Hoffman,1969,Nominated
+Midnight Cowboy,Jon Voight,1969,Nominated
+Sleuth,Michael Caine,1972,Nominated
+Sleuth,Laurence Olivier,1972,Nominated
+Network,Peter Finch,1976,Won
+Network,William Holden,1976,Nominated
+The Dresser,Tom Courtenay,1983,Nominated
+The Dresser,Albert Finney,1983,Nominated
+Amadeus,F. Murray Abraham,1984,Won
+Amadeus,Tom Hulce,1984,Nominated
+
+Record,Actor,Film,Age (in years),Ref.
+Oldest winner,Anthony Hopkins,The Father,83,[105]
+Oldest nominee,Anthony Hopkins,The Father,83,[105]
+Youngest winner,Adrien Brody,The Pianist,29,[105]
+Youngest nominee,Jackie Cooper,Skippy,9,[105]
+
+Nomination,Name,Age,Film,Year,Date of birth,Date of nomination
+2nd,Sal Mineo,"22 years, 17 days",Exodus,1960,"January 10, 1939","January 27, 1961"
+3rd,Marlon Brando,"29 years, 318 days",Julius Caesar,1953,"April 3, 1924","February 15, 1954"
+4th,Marlon Brando,"30 years, 315 days",On the Waterfront,1954,"April 3, 1924","February 12, 1955"
+5th,Marlon Brando,"33 years, 321 days",Sayonara,1957,"April 3, 1924","February 18, 1958"
+6th,Richard Burton,"44 years, 98 days",Anne of the Thousand Days,1969,"November 10, 1925","February 16, 1970"
+7th,Jack Nicholson,"46 years, 300 days",Terms of Endearment,1983,"April 22, 1937","February 16, 1984"
+8th,Jack Nicholson,"48 years, 289 days",Prizzi's Honor,1985,"April 22, 1937","February 5, 1986"
+9th,Jack Nicholson,"50 years, 301 days",Ironweed,1987,"April 22, 1937","February 17, 1988"
+10th,Jack Nicholson,"55 years, 302 days",A Few Good Men,1992,"April 22, 1937","February 18, 1993"
+
+Nomination,Name,Age,Film,Year,Date of birth,Date of nomination
+2nd,Angela Lansbury,"20 years, 103 days",The Picture of Dorian Gray,1945,"October 16, 1925","January 27, 1946"
+3rd,Jennifer Lawrence,"23 years, 154 days",American Hustle,2013,"August 15, 1990","January 16, 2014"
+4th,Jennifer Lawrence,"25 years, 152 days",Joy,2015,"August 15, 1990","January 14, 2016"
+5th,Kate Winslet,"31 years, 110 days",Little Children,2006,"October 5, 1975","January 23, 2007"
+6th,Kate Winslet,"33 years, 109 days",The Reader,2008,"October 5, 1975","January 22, 2009"
+7th,Bette Davis,"36 years, 304 days",Mr. Skeffington,1944,"April 5, 1908","February 3, 1945"
+8th,Meryl Streep,"39 years, 238 days",A Cry in the Dark,1988,"June 22, 1949","February 15, 1989"
+9th,Meryl Streep,"41 years, 236 days",Postcards from the Edge,1990,"June 22, 1949","February 13, 1991"
+10th,Meryl Streep,"46 years, 236 days",The Bridges of Madison County,1995,"June 22, 1949","February 13, 1996"
+
+U.S. network,Years,# of years
+NBC,1953–1960,8
+ABC,1961–1970,10
+NBC,1971–1975,5
+ABC,1976–present,45
+
+#,Date,Best Picture,Number of viewers P2+,HH Rating,Host(s),Producer(s),Venue,Broadcastpartner(s)
+1st,"May 16, 1929",Wings,—,—,Douglas FairbanksWilliam C. deMille,—,The Hollywood Roosevelt Hotel,none
+2nd,"April 3, 1930",The Broadway Melody,—,—,William C. deMille,—,Ambassador Hotel,KNX-AM[a][7]
+3rd,"November 5, 1930",All Quiet on the Western Front,—,—,Conrad Nagel,—,Ambassador Hotel,KNX-AM[a]
+4th,"November 10, 1931",Cimarron,—,—,Lawrence Grant,—,Biltmore Hotel,KHJ-AM[b]
+5th,"November 18, 1932",Grand Hotel,—,—,Lionel BarrymoreConrad Nagel,—,Ambassador Hotel,KECA-AM[c]
+6th,"March 16, 1934",Cavalcade,—,—,Will Rogers,—,Ambassador Hotel,none
+7th,"February 27, 1935",It Happened One Night,—,—,Irvin S. Cobb,—,Biltmore Hotel,none
+8th,"March 5, 1936",Mutiny on the Bounty,—,—,Frank Capra,—,Biltmore Hotel,none
+9th,"March 4, 1937",The Great Ziegfeld,—,—,George Jessel,—,Biltmore Hotel,none
+10th,"March 10, 1938",The Life of Emile Zola,—,—,Bob Burns,—,Biltmore Hotel,none
+11th,"February 23, 1939",You Can't Take It With You,—,—,none,—,Biltmore Hotel,KHJ-AM[d]
+12th,"February 29, 1940",Gone with the Wind,—,—,Bob Hope,—,Ambassador Hotel(Cocoanut Grove),KNX-AM[e]
+13th,"February 27, 1941",Rebecca,—,—,Bob Hope,—,Biltmore Hotel(Biltmore Bowl),KECA-AM[f]
+14th,"February 26, 1942",How Green Was My Valley,—,—,Bob Hope,—,Biltmore Hotel(Biltmore Bowl),KNX-AM[f]
+15th,"March 4, 1943",Mrs. Miniver,—,—,Bob Hope,—,Ambassador Hotel(Cocoanut Grove),KNX-AM[g]
+16th,"March 2, 1944",Casablanca,—,—,Jack Benny,—,Grauman's Chinese Theatre,KNX-AM[h]
+17th,"March 15, 1945",Going My Way,—,—,Bob HopeJohn Cromwell,—,Grauman's Chinese Theatre,ABC Radio[i]
+18th,"March 7, 1946",The Lost Weekend,—,—,Bob HopeJames Stewart,—,Grauman's Chinese Theatre,ABC Radio[i]
+19th,"March 13, 1947",The Best Years of Our Lives,—,—,Jack Benny,—,Shrine Auditorium,ABC Radio[i]
+20th,"March 20, 1948",Gentleman's Agreement,—,—,Agnes MooreheadDick Powell,—,Shrine Auditorium,ABC Radio[i]
+21st,"March 24, 1949",Hamlet,—,—,Robert Montgomery,—,The Academy Theater,ABC Radio[i]
+22nd,"March 23, 1950",All the King's Men,—,—,Paul Douglas,—,Pantages Theatre,ABC Radio[i]
+23rd,"March 29, 1951",All About Eve,—,—,Fred Astaire,—,Pantages Theatre,ABC Radio[i]
+24th,"March 20, 1952",An American in Paris,—,—,Danny Kaye,—,Pantages Theatre,ABC Radio[i]
+25th,"March 19, 1953",The Greatest Show on Earth,40 million,—,Bob HopeConrad Nagel,—,Pantages Theatre/NBC International Theatre,NBC RadioNBC
+26th,"March 25, 1954",From Here to Eternity,43 million,—,Donald O'ConnorFredric March,—,Pantages Theatre/NBC Century Theatre,NBC RadioNBC
+27th,"March 30, 1955",On the Waterfront,—,—,Bob HopeThelma Ritter,—,Pantages Theatre/NBC Century Theatre,NBC RadioNBC
+28th,"March 21, 1956",Marty,—,—,Jerry LewisClaudette ColbertJoseph L. Mankiewicz,Robert Emmett Dolan,Pantages Theatre/NBC Century Theatre,NBC RadioNBC
+29th,"March 27, 1957",Around the World in 80 Days,—,—,Jerry LewisCeleste Holm,Valentine Davies,Pantages Theatre/NBC Century Theatre,NBC RadioNBC
+30th,"March 26, 1958",The Bridge on the River Kwai,—,—,Bob HopeDavid NivenJames StewartJack LemmonRosalind RussellDonald Duck[8],Jerry Wald,Pantages Theatre,NBC RadioNBC
+31st,"April 6, 1959",Gigi,—,—,Bob HopeDavid NivenTony RandallMort SahlLaurence OlivierJerry Lewis,Jerry Wald,Pantages Theatre,NBC RadioNBC
+32nd,"April 4, 1960",Ben-Hur,—,—,Bob Hope,Arthur Freed,Pantages Theatre,NBC RadioNBC
+33rd,"April 17, 1961",The Apartment,—,—,Bob Hope,Arthur Freed,Santa Monica Civic Auditorium,ABC Radio [j]ABC
+34th,"April 9, 1962",West Side Story,—,—,Bob Hope,Arthur Freed,Santa Monica Civic Auditorium,ABC Radio [j]ABC
+35th,"April 8, 1963",Lawrence of Arabia,—,—,Frank Sinatra,Arthur Freed,Santa Monica Civic Auditorium,ABC Radio [j]ABC
+36th,"April 13, 1964",Tom Jones,—,—,Jack Lemmon,Richard DunlapGeorge Sidney,Santa Monica Civic Auditorium,ABC Radio [j]ABC
+37th,"April 5, 1965",My Fair Lady,—,—,Bob Hope,Joe Pasternak,Santa Monica Civic Auditorium,ABC Radio [j]ABC
+38th,"April 18, 1966",The Sound of Music,—,—,Bob Hope,Joe Pasternak,Santa Monica Civic Auditorium,ABC Radio [j]ABC
+39th,"April 10, 1967",A Man for All Seasons,—,—,Bob Hope,Joe Pasternak,Santa Monica Civic Auditorium,ABC Radio [j]ABC
+40th,"April 10, 1968",In the Heat of the Night,—,—,Bob Hope,Arthur Freed,Santa Monica Civic Auditorium,ABC Radio [j]ABC
+41st,"April 14, 1969",Oliver!,—,—,none,Gower Champion,Dorothy Chandler Pavilion,ABC
+42nd,"April 7, 1970",Midnight Cowboy,—,43.40,none,M. J. Frankovich,Dorothy Chandler Pavilion,ABC
+43rd,"April 15, 1971",Patton,—,—,none,Robert Wise,Dorothy Chandler Pavilion,NBC
+44th,"April 10, 1972",The French Connection,—,—,Helen HayesAlan KingSammy Davis Jr.Jack Lemmon,Howard W. Koch,Dorothy Chandler Pavilion,NBC
+45th,"March 27, 1973",The Godfather,—,—,Carol BurnettMichael CaineCharlton HestonRock Hudson,Howard W. Koch,Dorothy Chandler Pavilion,NBC
+46th,"April 2, 1974",The Sting,—,—,John HustonBurt ReynoldsDavid NivenDiana Ross,Jack Haley Jr.,Dorothy Chandler Pavilion,NBC
+47th,"April 8, 1975",The Godfather Part II,—,—,Sammy Davis Jr.Bob HopeShirley MacLaineFrank Sinatra,Howard W. Koch,Dorothy Chandler Pavilion,NBC
+48th,"March 29, 1976",One Flew Over the Cuckoo's Nest,—,—,Goldie HawnGene KellyWalter MatthauGeorge SegalRobert Shaw,Howard W. Koch,Dorothy Chandler Pavilion,ABC
+49th,"March 28, 1977",Rocky,—,—,Warren BeattyEllen BurstynJane Fonda Richard Pryor,William Friedkin,Dorothy Chandler Pavilion,ABC
+50th,"April 3, 1978",Annie Hall,39.73 million,31.10,Bob Hope,Howard W. Koch,Dorothy Chandler Pavilion,ABC
+51st,"April 9, 1979",The Deer Hunter,—,—,Johnny Carson,Jack Haley Jr.,Dorothy Chandler Pavilion,ABC
+52nd,"April 14, 1980",Kramer vs. Kramer,—,—,Johnny Carson,Howard W. Koch,Dorothy Chandler Pavilion,ABC
+53rd,"March 31, 1981",Ordinary People,—,—,Johnny Carson,Norman Jewison,Dorothy Chandler Pavilion,ABC
+54th,"March 29, 1982",Chariots of Fire,—,—,Johnny Carson,Howard W. KochMelvin Frank,Dorothy Chandler Pavilion,ABC
+55th,"April 11, 1983",Gandhi,—,—,Liza MinnelliDudley MooreRichard PryorWalter Matthau,Howard W. Koch,Dorothy Chandler Pavilion,ABC
+56th,"April 9, 1984",Terms of Endearment,—,38.00,Johnny Carson,Jack Haley Jr.,Dorothy Chandler Pavilion,ABC
+57th,"March 25, 1985",Amadeus,—,—,Jack Lemmon,Gregory PeckRobert WiseLarry GelbartGene Allen,Dorothy Chandler Pavilion,ABC
+58th,"March 24, 1986",Out of Africa,38.65 million,25.71,Alan AldaJane FondaRobin Williams,Stanley Donen,Dorothy Chandler Pavilion,ABC
+59th,"March 30, 1987",Platoon,39.72 million,25.94,Chevy ChaseGoldie HawnPaul Hogan,Samuel Goldwyn Jr.,Dorothy Chandler Pavilion,ABC
+60th,"April 11, 1988",The Last Emperor,42.04 million,27.80,Chevy Chase,Samuel Goldwyn Jr.,Shrine Auditorium,ABC
+61st,"March 29, 1989",Rain Man,42.77 million,28.41,none,Allan Carr,Shrine Auditorium,ABC
+62nd,"March 26, 1990",Driving Miss Daisy,40.22 million,26.42,Billy Crystal,Gil Cates,Dorothy Chandler Pavilion,ABC
+63rd,"March 25, 1991",Dances with Wolves,42.79 million,28.06,Billy Crystal,Gil Cates,Shrine Auditorium,ABC
+64th,"March 30, 1992",The Silence of the Lambs,44.41 million,29.80,Billy Crystal,Gil Cates,Dorothy Chandler Pavilion,ABC
+65th,"March 29, 1993",Unforgiven,45.74 million,31.20,Billy Crystal,Gil Cates,Dorothy Chandler Pavilion,ABC
+66th,"March 21, 1994",Schindler's List,45.08 million,31.10,Whoopi Goldberg,Gil Cates,Dorothy Chandler Pavilion,ABC
+67th,"March 27, 1995",Forrest Gump,48.28 million,32.50,David Letterman,Gil Cates,Shrine Auditorium,ABC
+68th,"March 25, 1996",Braveheart,44.87 million,30.26,Whoopi Goldberg,David SalzmanQuincy Jones,Dorothy Chandler Pavilion,ABC
+69th,"March 24, 1997",The English Patient,40.08 million,27.35,Billy Crystal,Gil Cates,Shrine Auditorium,ABC
+70th,"March 23, 1998",Titanic,55.25 million,34.86,Billy Crystal,Gil Cates,Shrine Auditorium,ABC
+71st,"March 21, 1999",Shakespeare in Love,45.62 million,28.64,Whoopi Goldberg,Gil Cates,Dorothy Chandler Pavilion,ABC
+72nd,"March 26, 2000",American Beauty,46.33 million,29.20,Billy Crystal,Richard D. ZanuckLili Fini Zanuck,Shrine Auditorium,ABC
+73rd,"March 25, 2001",Gladiator,42.94 million,26.22,Steve Martin,Gil Cates,Shrine Auditorium,ABC
+74th,"March 24, 2002",A Beautiful Mind,41.78 million,25.43,Whoopi Goldberg,Laura Ziskin,Kodak Theatre(then name of the Dolby Theatre),ABC
+75th,"March 23, 2003",Chicago,33.05 million,20.40,Steve Martin,Gil Cates,Kodak Theatre(then name of the Dolby Theatre),ABC
+76th,"February 29, 2004",The Lord of the Rings:The Return of the King,43.53 million,26.03,Billy Crystal,Joe Roth,Kodak Theatre(then name of the Dolby Theatre),ABC
+77th,"February 27, 2005",Million Dollar Baby,42.14 million,25.43,Chris Rock,Gil Cates,Kodak Theatre(then name of the Dolby Theatre),ABC
+78th,"March 5, 2006",Crash,38.94 million,23.05,Jon Stewart,Gil Cates,Kodak Theatre(then name of the Dolby Theatre),ABC
+79th,"February 25, 2007",The Departed,40.18 million,23.62,Ellen DeGeneres,Laura Ziskin,Kodak Theatre(then name of the Dolby Theatre),ABC
+80th,"February 24, 2008",No Country for Old Men,32.02 million,18.68,Jon Stewart,Gil Cates,Kodak Theatre(then name of the Dolby Theatre),ABC
+81st,"February 22, 2009",Slumdog Millionaire,36.32 million,20.59,Hugh Jackman,Bill CondonLaurence Mark,Kodak Theatre(then name of the Dolby Theatre),ABC
+82nd,"March 7, 2010",The Hurt Locker,41.71 million,23.33,Steve MartinAlec Baldwin,Bill MechanicAdam Shankman,Kodak Theatre(then name of the Dolby Theatre),ABC
+83rd,"February 27, 2011",The King's Speech,37.92 million,21.25,James FrancoAnne Hathaway,Bruce CohenDon Mischer,Kodak Theatre(then name of the Dolby Theatre),ABC
+84th,"February 26, 2012",The Artist,39.34 million,22.58,Billy Crystal,Brian GrazerDon Mischer,Hollywood and Highland Center(intermediate name of the Dolby Theatre),ABC
+85th,"February 24, 2013",Argo,40.38 million,23.08,Seth MacFarlane,Craig ZadanNeil Meron,Dolby Theatre,ABC
+86th,"March 2, 2014",12 Years a Slave,43.63 million,24.60,Ellen DeGeneres,Craig ZadanNeil Meron,Dolby Theatre,ABC
+87th,"February 22, 2015",Birdman,37.30 million,20.65,Neil Patrick Harris,Craig ZadanNeil Meron,Dolby Theatre,ABC
+88th,"February 28, 2016",Spotlight,34.43 million,19.37,Chris Rock,David HillReginald Hudlin,Dolby Theatre,ABC
+89th,"February 26, 2017",Moonlight,33.00 million,18.39,Jimmy Kimmel,Michael De LucaJennifer Todd,Dolby Theatre,ABC
+90th,"March 4, 2018",The Shape of Water,26.62 million,14.87,Jimmy Kimmel,Michael De LucaJennifer Todd,Dolby Theatre,ABC
+91st,"February 24, 2019",Green Book,29.56 million,16.4,none,Donna GigliottiGlenn Weiss,Dolby Theatre,ABC
+92nd,"February 9, 2020",Parasite,23.64 million,13.59[9],none,Lynette Howell TaylorStephanie Allain,Dolby Theatre,ABC
+93rd,"April 25, 2021",Nomadland,10.40 million,5.9,none,Jesse CollinsStacey SherSteven Soderbergh,Dolby Theatre/Union Station,ABC
+94th,"March 27, 2022[10]",TBA,TBA,TBA,TBA,Will Packer,Dolby Theatre,ABC
+
+Host,Number of ceremonies
+Bob Hope,19
+Billy Crystal,9
+Johnny Carson,5
+Whoopi Goldberg,4
+Jack Lemmon,4
+Jerry Lewis,3
+Steve Martin,3
+Conrad Nagel,3
+David Niven,3
+Jack Benny,2
+Chevy Chase,2
+Sammy Davis Jr.,2
+Ellen DeGeneres,2
+Jane Fonda,2
+Goldie Hawn,2
+Jimmy Kimmel,2
+Walter Matthau,2
+Richard Pryor,2
+Chris Rock,2
+Frank Sinatra,2
+James Stewart,2
+Jon Stewart,2
+
+Host,Ceremony,Date,Category,Film,Result
+David Niven,31st Academy Awards,"April 6, 1959",Best Actor,Separate Tables,Won
+Michael Caine,45th Academy Awards,"March 27, 1973",Best Actor,Sleuth,Nominated
+Walter Matthau,48th Academy Awards,"March 29, 1976",Best Actor,The Sunshine Boys,Nominated
+Paul Hogan,59th Academy Awards,"March 30, 1987",Best Original Screenplay,Crocodile Dundee,Nominated
+James Franco,83rd Academy Awards,"February 27, 2011",Best Actor,127 Hours,Nominated
+Seth MacFarlane,85th Academy Awards,"February 24, 2013",Best Original Song,Ted,Nominated
+

@@ -1,0 +1,4 @@
+name: tennis_winners
+column split: 0
+delimiter: ' '
+number of splits: 3

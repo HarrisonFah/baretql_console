@@ -1,0 +1,6 @@
+name: video_games
+column split: 0
+delimiter: ': '
+number of splits: 2
+
+note: edited by hand

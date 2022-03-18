@@ -1,0 +1,4 @@
+name: chinese_cities
+column split: 0
+delimiter: ' , '
+number of splits: 2

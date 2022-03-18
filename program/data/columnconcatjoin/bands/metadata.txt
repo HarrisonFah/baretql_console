@@ -1,0 +1,6 @@
+name: bands
+column split: 1
+delimiter: '–'
+number of splits: 2
+
+note: edited by hand

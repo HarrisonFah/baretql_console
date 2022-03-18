@@ -1,0 +1,4 @@
+name: baronets
+column split: 0
+delimiter: ' of '
+number of splits: 2

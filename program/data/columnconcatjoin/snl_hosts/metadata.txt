@@ -1,0 +1,4 @@
+name: snl_hosts
+column split: 1
+delimiter: '/'
+number of splits: 2

@@ -1,0 +1,6 @@
+name: comic_issues
+column split: 0
+delimiter: ' '
+number of splits: 3
+
+note: edited by hand

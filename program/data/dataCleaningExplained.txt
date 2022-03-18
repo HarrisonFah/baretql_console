@@ -1,0 +1,92 @@
+Cleaning and Filtering of Tables:
+
+Step 1:
+For each table, the first cleaning done is to iterate over each column and 
+to remove the columns that are of little use to BareTQL. The columns that 
+are of little use are the ones that are one of the following:
+- empty
+- are on average too long
+- are all punctuation 
+- repetitive
+A column is considered empty if 80% or more of the entries are empty. A 
+column is considered too long if the average length of the column entries 
+is greater than 40 characters. A column is considered all punctuation if 
+each entry in the column consists of punctuation characters. A column is 
+considered repetitive if each entry is the same.
+
+Step 2:
+BareTQL assumes the first column is the primary key column of the table 
+thus, cleaning and filtering is required to make sure this assumption is 
+valid. As well, textual key columns are preferred over numeric or date 
+key columns because textual columns are more descriptive and thus BareTQL 
+expects query keys to be textual.
+We remove the key column if it is the row number of the row (the first 
+entry of row 1 is "1", the first entry of row 2 is "2", ..., the first 
+entry of row n is "n"). Afterwards, we determine if the current first 
+column is an appropriate key column by:
+- checking if the key column is textual
+- check that key column has unique entries
+- more than 3 entries that contain no punctuation other than -,.
+A key column is textual if all of it's entries are not in date format, 
+numeric or a combination of numbers and punctuation. A key column is unique 
+if there are no duplicate entries.
+If any of these conditions are violated we try to see if there is any other 
+column that can fulfill these conditions. If there is at least one column 
+that fulfills the above conditions, we shift each column to the right by 1 
+and put the leftmost column that fulfills these conditions as the key 
+column. If there is no column that fulfills the conditions above, we remove 
+the table.
+
+Step 3:
+After having shifted the key columns, we remove all rows that have an empty 
+key entry.
+
+Step 4:
+We iterate over all columns again and make sure that none of them are:
+- empty
+- a combination of punctuation and integers
+A column is considered empty if 80% or more of the entries are empty. A 
+column is considered to be a combination of punctuation and integers if 
+there are fewer than 3 entries that are not made up of all punctuation and 
+integers.
+
+Step 5:
+If there are fewer than 3 rows or if there are no more columns, we discard 
+this table as it does not have much to contribute to our collection of 
+tables.
+
+Statistics:
+Here are some of the statistics of the number of tables, rows and columns 
+that are filtered at each step of filtering mentioned above. These 
+statistics have been calculated using a dataset of 1.6 million web tables 
+from wikipedia. This dataset belongs to 
+http://websail-fe.cs.northwestern.edu/TabEL/.
+
+To begin, this dataset has:
+1,652,771 Tables
+8,196,081 Columns
+18,035,365 Rows
+
+After step 1 which removes columns of little use (empty, are on average 
+too long, are all punctuation, repetitive):
+1,263,694 Tables remain (389,077 tables were removed)
+2,142,802 columns removed
+
+After step 2 which assures the first column is textual, unique, and has 
+at least 3 entries without punctuation (excluding -,.):
+358,770 Tables remain (904,924 Tables removed for not having a good enough key)
+167,135 'Row number' columns removed
+
+After step 3 which removes rows with an empty key (empty 1st column):
+358,770 Tables remain (0 tables removed)
+13,721 rows removed
+
+After step 4 which removes columns that are either empty or punctuation:
+358,770 Tables remain( (0 tables removed)
+351 columns removed
+
+After step 5 which removes tables if they have no more columns or 
+fewer than 3 rows:
+332,830 Tables (25,940 tables removed)
+
+Steps 3 and 4 contribute to the number of tables removed in step 5.

@@ -1,0 +1,4 @@
+name: basketball_coach
+column split: 1
+delimiter: ' '
+number of splits: 2

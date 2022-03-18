@@ -1,0 +1,4 @@
+name: police_chiefs
+column split: 0
+delimiter: ' '
+number of splits: 2
