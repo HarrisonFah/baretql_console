@@ -130,7 +130,18 @@ Example: If a user wants to join together table A's columns 1 and 3 concatenated
 
 # Developing Team
 
-BareTQL is developed at the University of Alberta. The developing team includes Harrison Fah (fah@ualberta.ca), Thomas Lafrance (tlafranc@ualberta.ca) and Davood Rafiei (drafiei@ualberta.ca).  
+BareTQL is developed at the University of Alberta. The developing team includes Harrison Fah (fah@ualberta.ca), Thomas Lafrance (tlafranc@ualberta.ca) and Davood Rafiei (drafiei@ualberta.ca).
+
+# Citing This Work
+This work can be cited using the following:
+
+    @inproceedings{rafiei2022baretql,
+      title={BareTQL: An Interactive System for Searching and Extraction of Open Data Tables},
+      author={Rafiei, Davood and Fah, Harrison and Lafrance, Thomas and Dargahi Nobari, Arash},
+      booktitle={27th International Conference on Intelligent User Interfaces},
+      pages={30--33},
+      year={2022}
+    }
 
 
 
